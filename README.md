@@ -30,7 +30,9 @@ This section is a portfolio of Machine Learning projects programmed with Python 
  
  
 - #### <ul> [Capstone project SpaceX](https://github.com/DrStef/Applied_Data_Science_Capstone_SpaceX_IBM/blob/main/README.md)                           
-- #### <ul> [Loan status prediction using Classification Algorithms](https://github.com/DrStef/Loan-Status-Prediction-using-Classification-Algorithms_IBM/blob/main/README.md)
+- #### <ul> [Loan status prediction using Classification Algorithms](https://github.com/DrStef/Loan-Status-Prediction-using-Classification-Algorithms_IBM/blob/main/README.md)</ul> 
+  
+  <ul><ul> Loan Status Prediction using Supervised Classification Algorithms: KNN, Decision Tree, SVM, logistic Regression. </ul></ul> 
 
 <br>
 <br>
