@@ -27,7 +27,7 @@ This section is a portfolio of Machine Learning projects programmed with Python 
 <ul><ul> A widerange of projects with various ML techniques, prediction, supervised and unsupervised classification: Linear Regression, Polynomial Regression, Non-Linear Regression, Recommandation Systems, KNN, Customer Segmentation with K-Means, Hierarchical Clustering, Density-Based Clustering, Logistic Regression. </ul></ul>
 
 - #### <ul> [House sales in King County USA](https://github.com/DrStef/House_Sales_in_King_County_USA_IBM/blob/main/README.md) </ul>    
- 
+<ul><ul> The project consists of finding the best model for predicting home prices in a county: King County, USA in Washington state, based on a dataset of homes sold between May 2014 and May 2015</ul></ul>
  
 - #### <ul> [Capstone project SpaceX](https://github.com/DrStef/Applied_Data_Science_Capstone_SpaceX_IBM/blob/main/README.md) </ul>                           
 - #### <ul> [Loan status prediction using Classification Algorithms](https://github.com/DrStef/Loan-Status-Prediction-using-Classification-Algorithms_IBM/blob/main/README.md)</ul> 
