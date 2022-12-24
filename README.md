@@ -18,7 +18,7 @@ They can be any type. A good example is the application with genome classificati
 This section is a portfolio of Machine Learning projects programmed with Python and various visualization and analysis modules. Most of these projects were carried out within the framework of IBM certifications. They are presented with Jupyter Notebooks. <br>
   Some projects have been improved by incorporating more in-depth data analysis. Before the application of Machine Learning algorithms.
 
-  [Machine Learning with Python](Machine_Learning_with_Python-IBM/README.md)
+  [Machine Learning with Python](../Machine_Learning_with_Python-IBM/README.md)
 
 
 - #### <ul> **House sales in King County USA**  </ul> 
