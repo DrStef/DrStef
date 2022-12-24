@@ -18,14 +18,14 @@ They can be any type. A good example is the application with genome classificati
 This section is a portfolio of Machine Learning projects programmed with Python and various visualization and analysis modules. Most of these projects were carried out within the framework of IBM certifications. They are presented with Jupyter Notebooks. <br>
   Some projects have been improved by incorporating more in-depth data analysis. Before the application of Machine Learning algorithms.
 
-- #### <ul> [Machine Learning with Python](https://github.com/DrStef/Machine_Learning_with_Python-IBM/blob/main/README.md)
+- #### <ul> [**Machine Learning with Python**](https://github.com/DrStef/Machine_Learning_with_Python-IBM/blob/main/README.md)
 
 
 - #### <ul> [House sales in King County USA](https://github.com/DrStef/House_Sales_in_King_County_USA_IBM/blob/main/README.md)    
  
  
-- #### <ul> [Capstone project SpaceX]  (https://github.com/DrStef/Applied_Data_Science_Capstone_SpaceX_IBM/blob/main/README.md)                           
-- #### <ul> [Loan status prediction using Classification Algorithms] (https://github.com/DrStef/Loan-Status-Prediction-using-Classification-Algorithms_IBM/blob/main/README.md)
+- #### <ul> [Capstone project SpaceX](https://github.com/DrStef/Applied_Data_Science_Capstone_SpaceX_IBM/blob/main/README.md)                           
+- #### <ul> [Loan status prediction using Classification Algorithms](https://github.com/DrStef/Loan-Status-Prediction-using-Classification-Algorithms_IBM/blob/main/README.md)
 
 
 
