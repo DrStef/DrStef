@@ -24,7 +24,7 @@ This section is a portfolio of Machine Learning projects programmed with Python 
   Some projects have been improved by incorporating more in-depth data analysis. Before the application of Machine Learning algorithms.
 
 - #### <ul> [**Machine Learning with Python**](https://github.com/DrStef/Machine_Learning_with_Python-IBM/blob/main/README.md)
-
+<ul><ul> A widerange of projects with various ML techniques, prediction or classification: Linear Regression, Polynomial Regression, Non-Linear Regression, Recommandation Systems, KNN, Customer Segmentation with K-Means, Hierarchical Clustering, Density-Based Clustering, Logistic Regression. </ul></ul>
 
 - #### <ul> [House sales in King County USA](https://github.com/DrStef/House_Sales_in_King_County_USA_IBM/blob/main/README.md)    
  
