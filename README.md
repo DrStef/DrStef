@@ -1,4 +1,7 @@
-### Hi there 👋
+########## Hi there 👋
+
+
+
 
 ## **Machine Learning - Deep Learning Projects**
 
@@ -65,12 +68,11 @@ This section is a portfolio of Machine Learning projects programmed with Python 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on advanced projects in ML & DL. 
+- 🌱 I’m currently learning Tensorflow
+- 👯 I’m looking to collaborate on Digital Signal Processing, Machine Learing, Deep Learning
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 📫 How to reach me: stephane.dedieu@bloo-audio.com
+
 - ⚡ Fun fact: ...
--->
