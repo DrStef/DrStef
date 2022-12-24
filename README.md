@@ -24,9 +24,9 @@ This section is a portfolio of Machine Learning projects programmed with Python 
 - #### <ul> [House sales in King County USA](https://github.com/DrStef/House_Sales_in_King_County_USA_IBM/blob/main/README.md)    
  
  
-- #### <ul> **Capstone project SpaceX**   </ul>  
-   
-- #### <ul> **Churn**  </ul>
+- #### <ul> [Capstone project SpaceX]  (https://github.com/DrStef/Applied_Data_Science_Capstone_SpaceX_IBM/blob/main/README.md)                           
+- #### <ul> [Loan status prediction using Classification Algorithms] (https://github.com/DrStef/Loan-Status-Prediction-using-Classification-Algorithms_IBM/blob/main/README.md)
+
 
 
 # **Data Analysis - SQL, MySQL**
