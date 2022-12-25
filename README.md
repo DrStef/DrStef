@@ -39,6 +39,9 @@ This section is a portfolio of Machine Learning projects programmed with Python 
 
 ## **Data Analysis - SQL, MySQL**
 
+  
+- #### <ul> [Insights in Boston real estate - Statistical analysis](https://github.com/DrStef/Statistics-for-Data-Science-with-Python/blob/main/README.md)    </ul>
+    
 - #### <ul> **Debt of countries: SQL - Analysis**  </ul>
 
 - #### <ul> **Vizualization with Dashboard** </ul>
