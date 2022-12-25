@@ -51,6 +51,10 @@ This section is a portfolio of Machine Learning projects programmed with Python 
 ## **Mathematics - Simulations**
 
 #### <ul> **Matplotlib - 3D surfaces**   </ul>  
+  - #### <ul> [**Matplotlib - 3D surfaces**](https://github.com/DrStef/Complex-3D-surfaces-with-Matplotlib/blob/main/README.md)</ul> 
+  
+  
+  
 #### <ul> **Digital Signal Processing**   </ul>  
 #### <ul> **Linear Algebra**   </ul>   
 #### <ul> **Discrete optimization**   </ul>   
