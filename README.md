@@ -10,7 +10,6 @@
 
 
 This section contains Research and Development projects in Machine Learning and Deep Learning that require original developments. They call on our expertise in Digital Signal Processing, Optimization, Linear Algebra. <br>
-This section is under continuous development as research progresses. <br> 
 
 - #### <ul>[Machine Learning and Digital Signal Processing for Genome Classification](https://github.com/DrStef/Machine-Learning-and-Digital-Signal-Processing-for-Genome-Classification/blob/main/README.md) </ul>
 <ul><ul> Project based on journal article: "ML-DSP: Machine Learning with Digital Signal Processing for ultrafast, accurate, and scalable genome classification at all taxonomic levels." Gurjit S. Randhawa, Kathleen A. Hill and Lila Kari. </ul></ul>
