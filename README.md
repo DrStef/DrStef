@@ -42,11 +42,9 @@ This section is a portfolio of Machine Learning projects programmed with Python 
   
 - #### <ul> [Insights in Boston real estate - Statistical analysis](https://github.com/DrStef/Statistics-for-Data-Science-with-Python/blob/main/README.md)    </ul>
     
-- #### <ul> **Debt of countries: SQL - Analysis**  </ul>
+- #### <ul> **Data Analysis with Python**  </ul>
 
 - #### <ul> **Vizualization with Dashboard** </ul>
-
-- #### <ul> **Vizualization with Tableau** </ul>
  
 <br>
 <br>
@@ -54,8 +52,6 @@ This section is a portfolio of Machine Learning projects programmed with Python 
 ## **Mathematics - Simulations**
 
 - #### <ul> [**Matplotlib - 3D surfaces**](https://github.com/DrStef/Complex-3D-surfaces-with-Matplotlib/blob/main/README.md)</ul> 
-  
-  
   
 - #### <ul> **Digital Signal Processing**   </ul>  
 - #### <ul> **Linear Algebra problems**   </ul>   
