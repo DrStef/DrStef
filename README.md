@@ -61,10 +61,13 @@ SpaceX Falcon 9 First Stage Landing Prediction. In this capstone, we will predic
 #### <ul> **Linear Algebra**   </ul>   
 #### <ul> **Discrete optimization**   </ul>   
 
+<br>
+<br>
+<br>  
 
-
-- 🔭 I’m currently working on advanced projects in ML & DL
-- 📫 How to reach me: stephane.dedieu@bloo-audio.com
+  
+🔭 I’m currently working on advanced projects in ML & DL
+📫 How to reach me: stephane.dedieu@bloo-audio.com
 
 <!--
 **DrStef/DrStef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
