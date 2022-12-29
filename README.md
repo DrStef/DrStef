@@ -14,9 +14,6 @@ This section contains Research and Development projects in Machine Learning and 
 - #### <ul>[Machine Learning and Digital Signal Processing for Genome Classification](https://github.com/DrStef/Machine-Learning-and-Digital-Signal-Processing-for-Genome-Classification/blob/main/README.md) </ul>
 <ul><ul> Project based on journal article: "ML-DSP: Machine Learning with Digital Signal Processing for ultrafast, accurate, and scalable genome classification at all taxonomic levels." Gurjit S. Randhawa, Kathleen A. Hill and Lila Kari. </ul></ul>
 
-
-
-
 ###  <ul> **Standard projects** </ul>
 
 This section is a portfolio of Machine Learning projects programmed with Python and various visualization and analysis modules. Most of these projects were carried out within the framework of IBM certifications. They are presented with Jupyter Notebooks. <br>
@@ -28,7 +25,11 @@ This section is a portfolio of Machine Learning projects programmed with Python 
 - #### <ul> [House sales in King County USA](https://github.com/DrStef/House_Sales_in_King_County_USA_IBM/blob/main/README.md) </ul>    
 <ul><ul> The project consists of finding the best model for predicting home prices in King County, USA in Washington State, based on a dataset of homes sold between May 2014 and May 2015. One version of the Jupyter Notebook includes interactive Folium maps (interactive maps will not display on Github). </ul></ul>
  
-- #### <ul> [Capstone project SpaceX](https://github.com/DrStef/Applied_Data_Science_Capstone_SpaceX_IBM/blob/main/README.md) </ul>                           
+- #### <ul> [Capstone project SpaceX](https://github.com/DrStef/Applied_Data_Science_Capstone_SpaceX_IBM/blob/main/README.md) </ul>      
+  
+SpaceX Falcon 9 First Stage Landing Prediction. In this capstone, we will predict if the Falcon 9 first stage will land successfully. Project includes: SpaceX data collection, data wrangling, Web scraping,  EDA with SQL Queries & Data visualization, SpaceX Launch Records Dashboard, Launch Sites Locations Analysis with Folium, Machine Learning classification with optimization of hyperparameters and selection of best model: KNN, Decision Tree, SVM, Logistic Regression. 
+  
+  
 - #### <ul> [Loan status prediction using Classification Algorithms](https://github.com/DrStef/Loan-Status-Prediction-using-Classification-Algorithms_IBM/blob/main/README.md)</ul> 
   
   <ul>Loan Status Prediction using Supervised Classification Algorithms: KNN, Decision Tree, SVM, Logistic Regression.</ul> 
@@ -62,15 +63,8 @@ This section is a portfolio of Machine Learning projects programmed with Python 
 
 
 
-
-
-
-
-
-
-
-
-
+- 🔭 I’m currently working on advanced projects in ML & DL
+- 📫 How to reach me: stephane.dedieu@bloo-audio.com
 
 <!--
 **DrStef/DrStef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -79,7 +73,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on advanced projects in ML & DL. 
 - 🌱 I’m currently learning Tensorflow
-- 👯 I’m looking to collaborate on Digital Signal Processing, Machine Learing, Deep Learning
+- 👯 I’m looking to collaborate on Digital Signal Processing, Machine Learning, Deep Learning
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: stephane.dedieu@bloo-audio.com
