@@ -25,9 +25,9 @@ This section is a portfolio of Machine Learning projects programmed with Python 
 - #### <ul> [House sales in King County USA](https://github.com/DrStef/House_Sales_in_King_County_USA_IBM/blob/main/README.md) </ul>    
 <ul><ul> The project consists of finding the best model for predicting home prices in King County, USA in Washington State, based on a dataset of homes sold between May 2014 and May 2015. One version of the Jupyter Notebook includes interactive Folium maps (interactive maps will not display on Github). </ul></ul>
  
-- #### <ul> [Capstone project SpaceX](https://github.com/DrStef/Applied_Data_Science_Capstone_SpaceX_IBM/blob/main/README.md) </ul>      
+- #### <ul> [SpaceX Falcon 9 First Stage Landing Prediction](https://github.com/DrStef/Applied_Data_Science_Capstone_SpaceX_IBM/blob/main/README.md) </ul>      
   
-SpaceX Falcon 9 First Stage Landing Prediction. In this capstone, we will predict if the Falcon 9 first stage will land successfully. Project includes: SpaceX data collection, data wrangling, Web scraping,  EDA with SQL Queries & Data visualization, SpaceX Launch Records Dashboard, Launch Sites Locations Analysis with Folium, Machine Learning classification with optimization of hyperparameters and selection of best model: KNN, Decision Tree, SVM, Logistic Regression. 
+<ul><ul> In this capstone, we will predict if the Falcon 9 first stage will land successfully. Project includes: SpaceX data collection, data wrangling, Web scraping,  EDA with SQL Queries & Data visualization, SpaceX Launch Records Dashboard, Launch Sites Locations Analysis with Folium, Machine Learning classification with optimization of hyperparameters and selection of best model: KNN, Decision Tree, SVM, Logistic Regression. </ul></ul>
   
   
 - #### <ul> [Loan status prediction using Classification Algorithms](https://github.com/DrStef/Loan-Status-Prediction-using-Classification-Algorithms_IBM/blob/main/README.md)</ul> 
@@ -66,7 +66,7 @@ SpaceX Falcon 9 First Stage Landing Prediction. In this capstone, we will predic
 <br>  
 
   
-🔭 I’m currently working on advanced projects in ML & DL
+🔭 I’m currently working on advanced projects in ML & DL <br>
 📫 How to reach me: stephane.dedieu@bloo-audio.com
 
 <!--
