@@ -57,9 +57,9 @@ This section is a portfolio of Machine Learning projects programmed with Python 
   
   
   
-#### <ul> **Digital Signal Processing**   </ul>  
-#### <ul> **Linear Algebra**   </ul>   
-#### <ul> **Discrete optimization**   </ul>   
+- #### <ul> **Digital Signal Processing**   </ul>  
+- #### <ul> **Linear Algebra problems**   </ul>   
+- #### <ul> **Discrete optimization: Genetic Algorithms**   </ul>   
 
 <br>
 <br>
