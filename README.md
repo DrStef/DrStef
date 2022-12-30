@@ -17,7 +17,7 @@ We improve classification accuracy on their challenging "Fungi" dataset. </ul></
 
 ###  <ul> **Standard projects** </ul>
 
-This section is a portfolio of Machine Learning projects programmed with Python and various visualization and analysis modules. Most of these projects were carried out within the framework of IBM certifications. They are presented with Jupyter Notebooks. <br>
+This section is a portfolio of Machine Learning projects with Python and various visualization and analysis tools. Most of these projects were carried out within the framework of IBM certifications. They are presented with Jupyter Notebooks. <br>
   Some projects have been improved by incorporating more in-depth data analysis, better graphs, advanced ML techniques. 
 
 - #### <ul> [**Machine Learning with Python**](https://github.com/DrStef/Machine_Learning_with_Python-IBM/blob/main/README.md)
