@@ -13,7 +13,7 @@ This section contains Research and Development projects in Machine Learning and 
 
 - #### <ul>[Machine Learning and Digital Signal Processing for Genome Classification](https://github.com/DrStef/Machine-Learning-and-Digital-Signal-Processing-for-Genome-Classification/blob/main/README.md) </ul>
 <ul><ul> Project based on journal article: <i>"ML-DSP: Machine Learning with Digital Signal Processing for ultrafast, accurate, and scalable genome classification at all taxonomic levels."</i>, Gurjit S. Randhawa, Kathleen A. Hill and Lila Kari. BMC Genomics (2019) 20:267. https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-019-5571-y <br>    
-We improve classification accuracy on the challenging "fungi" dataset. </ul></ul>
+We improve classification accuracy on their challenging "Fungi" dataset. </ul></ul>
 
 ###  <ul> **Standard projects** </ul>
 
