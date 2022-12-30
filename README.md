@@ -46,7 +46,9 @@ This section is a portfolio of Machine Learning projects programmed with Python 
 - #### <ul> **Data Analysis with Python**  </ul>
 
 - #### <ul> **Data Vizualization with Python** </ul>
- 
+
+- #### <ul> **Databases and SQL for Data Science**</ul> 
+  
 <br>
 <br>
 
