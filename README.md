@@ -28,7 +28,7 @@ This section is a portfolio of Machine Learning projects with Python and various
  
 - #### <ul> [SpaceX Falcon 9 First Stage Landing Prediction](https://github.com/DrStef/Applied_Data_Science_Capstone_SpaceX_IBM/blob/main/README.md) </ul>      
   
-<ul><ul> In this project, we will predict if the Falcon 9 first stage will land successfully. Project includes: SpaceX data collection, data wrangling, Web scraping,  EDA with SQL Queries & Data visualization, SpaceX Launch Records Dashboard, Launch Sites Locations Analysis with Folium, Machine Learning classification with optimization of hyperparameters and selection of best model: KNN, Decision Tree, SVM, Logistic Regression. </ul></ul>
+<ul><ul> In this project, we predict if the Falcon 9 first stage will land successfully. Project includes: SpaceX data collection, data wrangling, Web scraping,  EDA with SQL Queries & Data visualization, SpaceX Launch Records Dashboard, Launch Sites Locations Analysis with Folium, Machine Learning classification with optimization of hyperparameters and selection of best model: KNN, Decision Tree, SVM, Logistic Regression. </ul></ul>
   
   
 - #### <ul> [Loan status prediction using Classification Algorithms](https://github.com/DrStef/Loan-Status-Prediction-using-Classification-Algorithms_IBM/blob/main/README.md)</ul> 
