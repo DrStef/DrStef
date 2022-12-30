@@ -48,7 +48,8 @@ This section is a portfolio of Machine Learning projects with Python and various
 - #### <ul> **Data Vizualization with Python** </ul>
 
 - #### <ul> **Databases and SQL for Data Science**</ul> 
-  
+
+- #### <ul> **Stock extraction \& vizualisation - yFinance, Webscrapping**</ul> 
 <br>
 <br>
 
