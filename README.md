@@ -44,7 +44,7 @@ This section is a portfolio of Machine Learning projects programmed with Python 
     
 - #### <ul> **Data Analysis with Python**  </ul>
 
-- #### <ul> **Vizualization with Dashboard** </ul>
+- #### <ul> **Data Vizualization with Python** </ul>
  
 <br>
 <br>
