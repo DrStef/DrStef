@@ -68,7 +68,7 @@ This section is a portfolio of Machine Learning projects with Python and various
 🔭 I’m currently working on advanced projects in ML & DL <br>
 👯 I’m looking to collaborate on Digital Signal Processing, Machine Learning, Deep Learning <br>
 📫 How to reach me: <i>stephane.dedieu@bloo-audio.com</i> <br>
-⚡ Hobbies: stock market, economics, geopolitics. 
+ 
 
 <!--
 **DrStef/DrStef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -81,5 +81,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: <i>stephane.dedieu@bloo-audio.com</i>
-
+- ⚡ Hobbies: stock market, economics, geopolitics.
 - ⚡ Fun fact: ...
