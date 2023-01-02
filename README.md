@@ -66,7 +66,8 @@ This section is a portfolio of Machine Learning projects with Python and various
 
   
 🔭 I’m currently working on advanced projects in ML & DL <br>
-📫 How to reach me: stephane.dedieu@bloo-audio.com
+📫 How to reach me: <i>stephane.dedieu@bloo-audio.com</i>
+
 
 <!--
 **DrStef/DrStef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -78,6 +79,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Digital Signal Processing, Machine Learning, Deep Learning
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: stephane.dedieu@bloo-audio.com
+- 📫 How to reach me: <i>stephane.dedieu@bloo-audio.com</i>
 
 - ⚡ Fun fact: ...
