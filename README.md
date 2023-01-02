@@ -67,8 +67,7 @@ This section is a portfolio of Machine Learning projects with Python and various
   
 🔭 I’m currently working on advanced projects in ML & DL <br>
 👯 I’m looking to collaborate on Digital Signal Processing, Machine Learning, Deep Learning <br>
-
-📫 How to reach me: <i>stephane.dedieu@bloo-audio.com</i>
+📫 How to reach me: <i>stephane.dedieu@bloo-audio.com</i> <br>
 ⚡ Hobbies: stock market, economics, geopolitics. 
 
 <!--
