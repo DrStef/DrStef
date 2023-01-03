@@ -44,7 +44,7 @@ This section is a portfolio of Machine Learning projects with Python and various
     
 - #### <ul> **Data Analysis with Python**  </ul>
 
-- #### <ul> **Data Vizualization with Python** </ul>
+- #### <ul> [Data Visualization with Python](https://github.com/DrStef/Data-Visualization-with-Python/blob/main/README.md)</ul>
 
 - #### <ul> **Databases and SQL for Data Science**</ul> 
 
