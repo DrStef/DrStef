@@ -42,7 +42,7 @@ This section is a portfolio of Machine Learning projects with Python and various
   
 - #### <ul> [Insights in Boston real estate - Statistical analysis](https://github.com/DrStef/Statistics-for-Data-Science-with-Python/blob/main/README.md)    </ul>
     
-- #### <ul> **Data Analysis with Python**  </ul>
+- #### <ul> [Data Analysis with Python](https://github.com/DrStef/Data-Analysis-with-Python/blob/main/README.md) </ul>
 
 - #### <ul> [Data Visualization with Python](https://github.com/DrStef/Data-Visualization-with-Python/blob/main/README.md)</ul>
 
