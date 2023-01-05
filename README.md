@@ -49,6 +49,8 @@ This section is a portfolio of Machine Learning projects with Python and various
 - #### <ul> **Databases and SQL for Data Science**</ul> 
 
 - #### <ul> **Stock extraction \& vizualisation - yFinance, Webscraping**</ul> 
+  
+- #### <ul> **Data Science Methodology**</ul>
 <br>
 <br>
 
