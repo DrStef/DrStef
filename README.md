@@ -12,15 +12,9 @@ This section contains Research and Development projects in Machine Learning and 
 - #### <ul>[Machine Learning and Digital Signal Processing for Genome Classification](https://github.com/DrStef/Machine-Learning-and-Digital-Signal-Processing-for-Genome-Classification/blob/main/README.md) </ul>
 
 <ul><ul> In this project we develop effective methods for classifying mitochondrial genomes (DNA sequences) based on Digital Signal Processing, Machine Learning, Deep Learning. This is on-going research and results will be published on a regular basis. As a starting point we analyzed the following paper:
-<br>
-<br
->
- <i><b> "ML-DSP: Machine Learning with Digital Signal Processing for ultrafast, accurate, and scalable genome classification at all taxonomic levels" </b></i> by Gurjit S. Randhawa , Kathleen A. Hill and Lila Kari.
-Department of Computer Science, University of Western Ontario, London, ON, Canada.
-<span style="color:#006699"> Randhawa et al. BMC Genomics (2019) 20:267
-https://doi.org/10.1186/s12864-019-5571-y
-<br>
-<br>
+<br><br>
+ <i><b> "ML-DSP: Machine Learning with Digital Signal Processing for ultrafast, accurate, and scalable genome classification at all taxonomic levels" </b></i> by Gurjit S. Randhawa , Kathleen A. Hill and Lila Kari. https://doi.org/10.1186/s12864-019-5571-y
+<br><br>
 Their DNA sequence classification method: ML-DSP is very effective.  <br> 
 They collected a large number of DNA sequences, and built many datasets: Vertebrates, Fungi, Insects, .... <br>  
 Our objective is to develop methods that outperform the accuracy of ML-DSP with the most challenging datasets. </ul></ul>
