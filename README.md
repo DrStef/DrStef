@@ -23,7 +23,7 @@ Our objective is to develop methods that outperform the accuracy of ML-DSP with 
 
 <ul><ul>  Automatic environmental sound classification (ESC) based on ESC-50 dataset (and ESC-10 subset) built by Karol Piczak and described in the following article: </ul></ul>
 <ul><ul> "Karol J. Piczak. 2015. <b><i> ESC: Dataset for Environmental Sound Classification. </i></b> In Proceedings of the 23rd ACM international conference on Multimedia (MM '15). Association for Computing Machinery, New York, NY, USA, 1015–1018. https://doi.org/10.1145/2733373.2806390"   </ul></ul>
-<ul><ul> Datasets are available on Dr Piczak Github: https://github.com/karoldvl/ESC-50/  </ul></ul>
+<ul><ul> ESC-50 dataset is available from Dr. Piczak's Github: https://github.com/karoldvl/ESC-50/  </ul></ul>
 
 <ul><ul> The following recent article is a descriptive survey for Environmental sound classification (ESC) detailing datasets, preprocessing techniques, features and classifiers. And their accuracy. </ul></ul>
 <ul><ul> Anam Bansal, Naresh Kumar Garg, <b><i> "Environmental Sound Classification: A descriptive review of the literature, 
