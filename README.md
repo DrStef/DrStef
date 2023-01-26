@@ -19,10 +19,24 @@ Their DNA sequence classification method: ML-DSP is very effective.  <br>
 They collected a large number of DNA sequences, and built many datasets: Vertebrates, Fungi, Insects, .... <br>  
 Our objective is to develop methods that outperform the accuracy of ML-DSP with the most challenging datasets. </ul></ul>
 
+- #### <ul>Deep Learning and Digital Signal Processing for Environmental Sound Classification </ul>
+
+<ul><ul>  Automatic environmental sound classification (ESC) based on ESC-10 dataset. It is a labeled set of 400 environmental recordings (10 classes, 40 clips per class, 5 seconds per clip). It is a subset of the larger ESC-50 dataset built by Karol Piczak and described in the follwing article: </ul></ul>
+
+<ul><ul> "Karol J. Piczak. 2015. <b><i> ESC: Dataset for Environmental Sound Classification. </i></b> In Proceedings of the 23rd ACM international conference on Multimedia (MM '15). Association for Computing Machinery, New York, NY, USA, 1015–1018. https://doi.org/10.1145/2733373.2806390"   </ul></ul>
+<ul><ul> Datasets are available on Dr Piczak Github: https://github.com/karoldvl/ESC-50/  </ul></ul>
+
+<ul><ul> The following recent article is a descriptive survey for Environmental sound classification (ESC) detailing datasets, preprocessing techniques, features and classifiers. And their accuracy. </ul></ul>
+<ul><ul> Anam Bansal, Naresh Kumar Garg, <b><i> "Environmental Sound Classification: A descriptive review of the literature, 
+Intelligent Systems with Applications,</i></b> Volume 16, 2022, 200115, ISSN 2667-3053, https://doi.org/10.1016/j.iswa.2022.200115.  </ul></ul>
+
+<ul><ul> We develop our own pre-processing techniques for achieving best accuracy results as per Bansal et al., typically above 94%.  </ul></ul>
+ 
+
 ### **Standard projects**
   
 This section is a portfolio of Machine Learning projects with Python and various visualization and analysis tools. Most of these projects were carried out within the framework of IBM certifications. They are presented with Jupyter Notebooks. <br>
-  Some projects have been improved by incorporating more in-depth data analysis, better graphs, advanced ML techniques. 
+Some projects have been improved by incorporating more in-depth data analysis, better graphs, advanced ML techniques. 
 
 - #### <ul> [**Machine Learning with Python**](https://github.com/DrStef/Machine_Learning_with_Python-IBM/blob/main/README.md)
 <ul><ul> A widerange of small projects with various ML techniques, prediction, supervised and unsupervised classification: Linear Regression, Polynomial Regression, Non-Linear Regression, Recommandation Systems, KNN, Customer Segmentation with K-Means, Hierarchical Clustering, Density-Based Clustering, Logistic Regression. </ul></ul>
