@@ -21,8 +21,7 @@ Our objective is to develop methods that outperform the accuracy of ML-DSP with 
 
 - #### <ul>Deep Learning and Digital Signal Processing for Environmental Sound Classification </ul>
 
-<ul><ul>  Automatic environmental sound classification (ESC) based on ESC-10 dataset. It is a labeled set of 400 environmental recordings (10 classes, 40 clips per class, 5 seconds per clip). It is a subset of the larger ESC-50 dataset built by Karol Piczak and described in the follwing article: </ul></ul>
-
+<ul><ul>  Automatic environmental sound classification (ESC) based on ESC-50 dataset (and ESC-10 subset) built by Karol Piczak and described in the following article: </ul></ul>
 <ul><ul> "Karol J. Piczak. 2015. <b><i> ESC: Dataset for Environmental Sound Classification. </i></b> In Proceedings of the 23rd ACM international conference on Multimedia (MM '15). Association for Computing Machinery, New York, NY, USA, 1015–1018. https://doi.org/10.1145/2733373.2806390"   </ul></ul>
 <ul><ul> Datasets are available on Dr Piczak Github: https://github.com/karoldvl/ESC-50/  </ul></ul>
 
@@ -30,7 +29,7 @@ Our objective is to develop methods that outperform the accuracy of ML-DSP with 
 <ul><ul> Anam Bansal, Naresh Kumar Garg, <b><i> "Environmental Sound Classification: A descriptive review of the literature, 
 Intelligent Systems with Applications,</i></b> Volume 16, 2022, 200115, ISSN 2667-3053, https://doi.org/10.1016/j.iswa.2022.200115.  </ul></ul>
 
-<ul><ul> We develop our own pre-processing techniques for achieving best accuracy results as per Bansal et al., typically above 94%.  </ul></ul>
+<ul><ul> We develop our own pre-processing techniques for achieving best accuracy results as per <i> Bansal et al </i>.  </ul></ul>
  
 
 ### **Standard projects**
