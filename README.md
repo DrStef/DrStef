@@ -5,9 +5,8 @@
 This section contains Research and Development projects in Machine Learning and Deep Learning that require original developments. They call on our expertise in Digital Signal Processing, Optimization, Calculus, Linear Algebra. <br>
 
 - #### <ul>[Machine Learning and Digital Signal Processing for Genome Classification](https://github.com/DrStef/Machine-Learning-and-Digital-Signal-Processing-for-Genome-Classification/blob/main/README.md) </ul>
-
 <ul><ul>
- <img src="https://github.com/DrStef/Machine-Learning-and-Digital-Signal-Processing-for-Genome-Classification/blob/main/LOG_REG_Fungi_ConfusionMatrix.png"  align="right"  width="200px"/>
+<img src="https://github.com/DrStef/Machine-Learning-and-Digital-Signal-Processing-for-Genome-Classification/blob/main/LOG_REG_Fungi_ConfusionMatrix.png"  align="right"  width="200px"/>
 In this project we develop effective methods for classifying mitochondrial genomes (DNA sequences) based on Digital Signal Processing, Machine Learning, Deep Learning. This is on-going research and results will be published on a regular basis. As a starting point we analyzed the following paper: <br>
  <i><b> "ML-DSP: Machine Learning with Digital Signal Processing for ultrafast, accurate, and scalable genome classification at all taxonomic levels" </b></i> by Gurjit S. Randhawa , Kathleen A. Hill and Lila Kari. https://doi.org/10.1186/s12864-019-5571-y
 <br><br>
@@ -17,7 +16,6 @@ Our objective is to develop methods that outperform the accuracy of ML-DSP with 
 <br clear="left"/>
 
 - #### <ul>[Deep Learning and Digital Signal Processing for Environmental Sound Classification](https://github.com/DrStef/Deep-Learning-and-Digital-Signal-Processing-for-Environmental-Sound-Classification/blob/main/README.md) </ul>
-
 <ul><ul>
  <img src="https://github.com/DrStef/Deep-Learning-and-Digital-Signal-Processing-for-Environmental-Sound-Classification/blob/main/MelSpectrogram.png"  align="right"  width="200px"/>
 Automatic environmental sound classification (ESC) based on ESC-50 dataset (and ESC-10 subset) built by Karol Piczak and described in the following article: <br>
@@ -27,24 +25,23 @@ Automatic environmental sound classification (ESC) based on ESC-50 dataset (and 
 We implement custom pre-processing and use mel-spectrograms, wavelet transforms along with Convolutional Neural Networks (CNN) for achieving highest accuracy >90%.    
 </ul></ul>
 
-
- 
-
 ### **Standard projects**
   
 This section is a portfolio of Machine Learning projects with Python and various visualization and analysis tools. Most of these projects were carried out within the framework of IBM certifications. They are presented with Jupyter Notebooks. <br>
 Some projects have been improved by incorporating more in-depth data analysis, better graphs, advanced ML techniques. 
 
 - #### <ul> [SpaceX Falcon 9 First Stage Landing Prediction](https://github.com/DrStef/Applied_Data_Science_Capstone_SpaceX_IBM/blob/main/README.md) </ul>      
-
 <ul><ul>
  <img src="https://camo.githubusercontent.com/528a4189b625eca22823147171665b2b1f5286b3a617b52b81369f3fcd76f8e5/68747470733a2f2f63662d636f75727365732d646174612e73332e75732e636c6f75642d6f626a6563742d73746f726167652e617070646f6d61696e2e636c6f75642f49424d446576656c6f706572536b696c6c734e6574776f726b2d445330373031454e2d536b696c6c734e6574776f726b2f6c61625f76322f696d616765732f6c616e64696e675f312e676966"  align="right"  width="200px"/>
 In this project, we predict if the Falcon 9 first stage will land successfully. Project includes: SpaceX data collection, Data Wrangling, Webscraping,  EDA with SQL Queries & Data visualization, SpaceX Launch Records Dashboard, Launch Sites Locations Analysis with Folium, Machine Learning classification with optimization of hyperparameters and selection of best model: KNN, Decision Tree, SVM, Logistic Regression. </ul></ul>
 <br clear="left"/>
  
 - #### <ul> [**Machine Learning with Python**](https://github.com/DrStef/Machine_Learning_with_Python-IBM/blob/main/README.md)
-<ul><ul> A widerange of small projects with various ML techniques, prediction, supervised and unsupervised classification: Linear Regression, Polynomial Regression, Non-Linear Regression, Recommandation Systems, KNN, Customer Segmentation with K-Means, Hierarchical Clustering, Density-Based Clustering, Logistic Regression. </ul></ul>
-  
+<ul><ul>
+<img src="https://github.com/DrStef/Machine_Learning_with_Python-IBM/blob/main/density_based_clustering_weather_001.png"  align="right"  width="200px"/>
+A widerange of small projects with various ML techniques, prediction, supervised and unsupervised classification: Linear Regression, Polynomial Regression, Non-Linear Regression, Recommandation Systems, KNN, Customer Segmentation with K-Means, Hierarchical Clustering, Density-Based Clustering, Logistic Regression. </ul></ul>
+<br clear="left"/> 
+ 
 - #### <ul> [House sales in King County USA](https://github.com/DrStef/House_Sales_in_King_County_USA_IBM/blob/main/README.md) </ul>    
 <ul><ul> The project consists of finding the best model for predicting home prices in King County, USA in Washington State, based on a dataset of homes sold between May 2014 and May 2015. Prediction accuracy was improved by implementing a spline regression model.<br>  One Jupyter Notebook includes interactive Folium maps (interactive maps will not display on Github). </ul></ul>
 
