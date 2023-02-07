@@ -11,8 +11,7 @@ In this project we develop effective methods for classifying mitochondrial genom
  <i><b> "ML-DSP: Machine Learning with Digital Signal Processing for ultrafast, accurate, and scalable genome classification at all taxonomic levels" </b></i> by Gurjit S. Randhawa , Kathleen A. Hill and Lila Kari. https://doi.org/10.1186/s12864-019-5571-y
 <br><br>
 Their DNA sequence classification method: ML-DSP is very effective.
-They collected a large number of DNA sequences, and built many datasets: Vertebrates, Fungi, Insects, .... <br>  
-Our objective is to develop methods that outperform the accuracy of ML-DSP with the most challenging datasets. </ul></ul>
+They collected a large number of DNA sequences, and built many datasets: Vertebrates, Fungi, Insects,... Our objective is to develop methods that outperform the accuracy of ML-DSP with the most challenging datasets. </ul></ul>
 
 
 - #### <ul>[Deep Learning and Digital Signal Processing for Environmental Sound Classification](https://github.com/DrStef/Deep-Learning-and-Digital-Signal-Processing-for-Environmental-Sound-Classification/blob/main/README.md) </ul>
