@@ -13,7 +13,7 @@ In this project we develop effective methods for classifying mitochondrial genom
 Their DNA sequence classification method: ML-DSP is very effective.
 They collected a large number of DNA sequences, and built many datasets: Vertebrates, Fungi, Insects, .... <br>  
 Our objective is to develop methods that outperform the accuracy of ML-DSP with the most challenging datasets. </ul></ul>
-<br clear="left"/>
+
 
 - #### <ul>[Deep Learning and Digital Signal Processing for Environmental Sound Classification](https://github.com/DrStef/Deep-Learning-and-Digital-Signal-Processing-for-Environmental-Sound-Classification/blob/main/README.md) </ul>
 <ul><ul>
@@ -34,26 +34,27 @@ Some projects have been improved by incorporating more in-depth data analysis, b
 <ul><ul>
  <img src="https://camo.githubusercontent.com/528a4189b625eca22823147171665b2b1f5286b3a617b52b81369f3fcd76f8e5/68747470733a2f2f63662d636f75727365732d646174612e73332e75732e636c6f75642d6f626a6563742d73746f726167652e617070646f6d61696e2e636c6f75642f49424d446576656c6f706572536b696c6c734e6574776f726b2d445330373031454e2d536b696c6c734e6574776f726b2f6c61625f76322f696d616765732f6c616e64696e675f312e676966"  align="right"  width="200px"/>
 In this project, we predict if the Falcon 9 first stage will land successfully. Project includes: SpaceX data collection, Data Wrangling, Webscraping,  EDA with SQL Queries & Data visualization, SpaceX Launch Records Dashboard, Launch Sites Locations Analysis with Folium, Machine Learning classification with optimization of hyperparameters and selection of best model: KNN, Decision Tree, SVM, Logistic Regression. </ul></ul>
-<br clear="left"/>
+
  
 - #### <ul> [**Machine Learning with Python**](https://github.com/DrStef/Machine_Learning_with_Python-IBM/blob/main/README.md)
 <ul><ul>
 <img src="https://github.com/DrStef/Machine_Learning_with_Python-IBM/blob/main/density_based_clustering_weather_001.png"  align="right"  width="200px"/>
 A widerange of small projects with various ML techniques, prediction, supervised and unsupervised classification: Linear Regression, Polynomial Regression, Non-Linear Regression, Recommandation Systems, KNN, Customer Segmentation with K-Means, Hierarchical Clustering, Density-Based Clustering, Logistic Regression. </ul></ul>
-<br clear="left"/> 
+
  
 - #### <ul> [House sales in King County USA](https://github.com/DrStef/House_Sales_in_King_County_USA_IBM/blob/main/README.md) </ul>   
  
 <ul><ul>
 <img src="https://github.com/DrStef/House_Sales_in_King_County_USA_IBM/blob/main/Project_House_Sales_in_King_County_USA_v003_LTX/output_60_0.png"  align="right"  width="200px"/> 
 The project consists of finding the best model for predicting home prices in King County, USA in Washington State, based on a dataset of homes sold between May 2014 and May 2015. Prediction accuracy was improved by implementing a spline regression model.<br>  One Jupyter Notebook includes interactive Folium maps (interactive maps will not display on Github). </ul></ul>
- 
+<br> 
  
 - #### <ul> [Loan status prediction using Classification Algorithms](https://github.com/DrStef/Loan-Status-Prediction-using-Classification-Algorithms_IBM/blob/main/README.md)</ul> 
   
-  <ul>Loan Status Prediction using Supervised Classification Algorithms: KNN, Decision Tree, SVM, Logistic Regression.</ul> 
+<ul><ul>
+<img src="https://github.com/DrStef/Loan-Status-Prediction-using-Classification-Algorithms_IBM/blob/main/Loan_gender.png"  align="right"  width="200px"/> 
+Loan Status Prediction using Supervised Classification Algorithms: KNN, Decision Tree, SVM, Logistic Regression.</ul> </ul> 
 
-<br>
 <br>
 
 ## **Data Analysis - SQL, MySQL**
