@@ -1,9 +1,4 @@
 
-
-
-
-
-
 ## **Machine Learning - Deep Learning Projects**
 
 ###  **Advanced projects**
@@ -12,7 +7,7 @@ This section contains Research and Development projects in Machine Learning and 
 - #### <ul>[Machine Learning and Digital Signal Processing for Genome Classification](https://github.com/DrStef/Machine-Learning-and-Digital-Signal-Processing-for-Genome-Classification/blob/main/README.md) </ul>
 
 <ul><ul>
- <img src="https://github.com/DrStef/Machine-Learning-and-Digital-Signal-Processing-for-Genome-Classification/blob/main/LOG_REG_Fungi_ConfusionMatrix.png"  align="right"  width="240px"/>
+ <img src="https://github.com/DrStef/Machine-Learning-and-Digital-Signal-Processing-for-Genome-Classification/blob/main/LOG_REG_Fungi_ConfusionMatrix.png"  align="right"  width="200px"/>
 In this project we develop effective methods for classifying mitochondrial genomes (DNA sequences) based on Digital Signal Processing, Machine Learning, Deep Learning. This is on-going research and results will be published on a regular basis. As a starting point we analyzed the following paper: <br>
  <i><b> "ML-DSP: Machine Learning with Digital Signal Processing for ultrafast, accurate, and scalable genome classification at all taxonomic levels" </b></i> by Gurjit S. Randhawa , Kathleen A. Hill and Lila Kari. https://doi.org/10.1186/s12864-019-5571-y
 <br><br>
@@ -24,7 +19,7 @@ Our objective is to develop methods that outperform the accuracy of ML-DSP with 
 - #### <ul>[Deep Learning and Digital Signal Processing for Environmental Sound Classification](https://github.com/DrStef/Deep-Learning-and-Digital-Signal-Processing-for-Environmental-Sound-Classification/blob/main/README.md) </ul>
 
 <ul><ul>
- <img src="https://github.com/DrStef/Deep-Learning-and-Digital-Signal-Processing-for-Environmental-Sound-Classification/blob/main/MelSpectrogram.png"  align="right"  width="250px"/>
+ <img src="https://github.com/DrStef/Deep-Learning-and-Digital-Signal-Processing-for-Environmental-Sound-Classification/blob/main/MelSpectrogram.png"  align="right"  width="200px"/>
 Automatic environmental sound classification (ESC) based on ESC-50 dataset (and ESC-10 subset) built by Karol Piczak and described in the following article: <br>
 <b><i> "ESC: Dataset for Environmental Sound Classification." </i></b> by Karol J. Piczak. 2015. In Proceedings of the 23rd ACM international conference on Multimedia (MM '15). Association for Computing Machinery, New York, NY, USA, 1015–1018. https://doi.org/10.1145/2733373.2806390" 
 <br clear="left"/>
