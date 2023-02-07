@@ -73,18 +73,18 @@ After cleaning the dataset, running statistics, identifying the most relevant va
 
 <ul><ul> 
  
- |<p align="center">   <img src="https://github.com/DrStef/Data-Visualization-with-Python/blob/main/Canada_immigration_wordcloud.png"  width="300"  />                        </p>    |  <p align="center"> <img src="https://github.com/DrStef/Data-Visualization-with-Python/blob/main/Crime_SF_folium_v02.png" width="300"  /> </p> | <p align="center"> <img src= "https://github.com/DrStef/Data-Visualization-with-Python/blob/main/Choropleth_can_immigration.png" width="300" /></p>|
+ |<p align="center">   <img src="https://github.com/DrStef/Data-Visualization-with-Python/blob/main/Canada_immigration_wordcloud.png"  width="250"  />                        </p>    |  <p align="center"> <img src="https://github.com/DrStef/Data-Visualization-with-Python/blob/main/Crime_SF_folium_v02.png" width="300"  /> </p> | <p align="center"> <img src= "https://github.com/DrStef/Data-Visualization-with-Python/blob/main/Choropleth_can_immigration.png" width="300" /></p>|
 | ---       | ---                          |   ---         |
 |<p align="center"> Word Cloud </p>  |  <p align="center"> Folium with markers  </p>       |   <p align="center">  Choropleth </p> |
 
  </ul></ul>
  
- 
 - #### <ul> **Databases and SQL for Data Science**</ul> 
 
 - #### <ul> **Stock extraction \& vizualisation - yFinance, Webscraping**</ul> 
   
-- #### <ul> **Data Science Methodology**</ul>
+- #### <ul> **Data Science Methodology**</ul> 
+
 <br>
 <br>
 
