@@ -58,9 +58,12 @@ Loan Status Prediction using Supervised Classification Algorithms: KNN, Decision
 
 ## **Data Analysis - SQL, MySQL**
 
-  
 - #### <ul> [Insights in Boston real estate - Statistical analysis](https://github.com/DrStef/Statistics-for-Data-Science-with-Python/blob/main/README.md)    </ul>
     
+<ul><ul>
+<img src="https://github.com/DrStef/Statistics-for-Data-Science-with-Python/blob/main/real_estate_boston_001.png"  align="right"  width="200px"/> 
+Old dataset on housing prices derived from the U.S. Census Service to present insights based on our experience in Statistics. Median value of houses bounded by the Charles river, of owner-occupied units built before 1940, relationship between Nitric oxide concentrations and the proportion of non-retail business acres per town, impact of weighted distance to the five Boston employment centres on the median value of owner-occupied homes. </ul> </ul> 
+ 
 - #### <ul> [Data Analysis with Python](https://github.com/DrStef/Data-Analysis-with-Python/blob/main/README.md) </ul>
 
 - #### <ul> [Data Visualization with Python](https://github.com/DrStef/Data-Visualization-with-Python/blob/main/README.md)</ul>
