@@ -42,9 +42,13 @@ In this project, we predict if the Falcon 9 first stage will land successfully. 
 A widerange of small projects with various ML techniques, prediction, supervised and unsupervised classification: Linear Regression, Polynomial Regression, Non-Linear Regression, Recommandation Systems, KNN, Customer Segmentation with K-Means, Hierarchical Clustering, Density-Based Clustering, Logistic Regression. </ul></ul>
 <br clear="left"/> 
  
-- #### <ul> [House sales in King County USA](https://github.com/DrStef/House_Sales_in_King_County_USA_IBM/blob/main/README.md) </ul>    
-<ul><ul> The project consists of finding the best model for predicting home prices in King County, USA in Washington State, based on a dataset of homes sold between May 2014 and May 2015. Prediction accuracy was improved by implementing a spline regression model.<br>  One Jupyter Notebook includes interactive Folium maps (interactive maps will not display on Github). </ul></ul>
-
+- #### <ul> [House sales in King County USA](https://github.com/DrStef/House_Sales_in_King_County_USA_IBM/blob/main/README.md) </ul>   
+ 
+<ul><ul>
+<img src="https://github.com/DrStef/House_Sales_in_King_County_USA_IBM/blob/main/Project_House_Sales_in_King_County_USA_v003_LTX/output_60_0.png"  align="right"  width="200px"/> 
+The project consists of finding the best model for predicting home prices in King County, USA in Washington State, based on a dataset of homes sold between May 2014 and May 2015. Prediction accuracy was improved by implementing a spline regression model.<br>  One Jupyter Notebook includes interactive Folium maps (interactive maps will not display on Github). </ul></ul>
+ 
+ 
 - #### <ul> [Loan status prediction using Classification Algorithms](https://github.com/DrStef/Loan-Status-Prediction-using-Classification-Algorithms_IBM/blob/main/README.md)</ul> 
   
   <ul>Loan Status Prediction using Supervised Classification Algorithms: KNN, Decision Tree, SVM, Logistic Regression.</ul> 
