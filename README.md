@@ -75,7 +75,7 @@ After cleaning the dataset, running statistics, identifying the most relevant va
  
  |<p align="center">   <img src="https://github.com/DrStef/Data-Visualization-with-Python/blob/main/Canada_immigration_wordcloud.png"  width="250"  />                        </p>    |  <p align="center"> <img src="https://github.com/DrStef/Data-Visualization-with-Python/blob/main/Crime_SF_folium_v02.png" width="300"  /> </p> | <p align="center"> <img src= "https://github.com/DrStef/Data-Visualization-with-Python/blob/main/Choropleth_can_immigration.png" width="300" /></p>|
 | ---       | ---                          |   ---         |
-|<p align="center"> Word Cloud </p>  |  <p align="center"> Folium with markers  </p>       |   <p align="center">  Choropleth </p> |
+ |<p align="center"> <i> Word Cloud </i> </p>  |  <p align="center"> <i> Folium with markers </i> </p>       |   <p align="center"> <i> Choropleth </i> </p> |
 
  </ul></ul>
  
@@ -96,7 +96,7 @@ After cleaning the dataset, running statistics, identifying the most relevant va
  
  |<p align="center">   <img src="https://github.com/DrStef/Complex-3D-surfaces-with-Matplotlib/blob/main/Gyroid.png"  width="200"  />                        </p>    |  <p align="center"> <img src="https://github.com/DrStef/Complex-3D-surfaces-with-Matplotlib/blob/main/icosahedron.png" width="300"  /> </p> | <p align="center"> <img src= "https://github.com/DrStef/Complex-3D-surfaces-with-Matplotlib/blob/main/Helicoid_Catenoid_v3.gif" width="200" /></p>|
 | ---       | ---                          |   ---         |
-|<p align="center"> Gyroid </p>  |  <p align="center">  Polyhedrons  </p>       |   <p align="center">  Helicoid-Catenoid </p> |
+|<p align="center">  <i>  Gyroid </i></p>  |  <p align="center">  <i>  Polyhedrons </i>  </p>       |   <p align="center">   <i> Helicoid-Catenoid </i> </p> |
 
  </ul></ul>
  
