@@ -94,7 +94,7 @@ After cleaning the dataset, running statistics, identifying the most relevant va
  
  <ul><ul> 
  
- |<p align="center">   <img src="https://github.com/DrStef/Complex-3D-surfaces-with-Matplotlib/blob/main/Gyroid.png"  width="200"  />                        </p>    |  <p align="center"> <img src="https://github.com/DrStef/Complex-3D-surfaces-with-Matplotlib/blob/main/icosahedron.png" width="300"  /> </p> | <p align="center"> <img src= "https://github.com/DrStef/Complex-3D-surfaces-with-Matplotlib/blob/main/Helicoid_Catenoid_v3.gif" width="200" /></p>|
+ |<p align="center">   <img src="https://github.com/DrStef/Complex-3D-surfaces-with-Matplotlib/blob/main/Gyroid.png"  width="150"  />                        </p>    |  <p align="center"> <img src="https://github.com/DrStef/Complex-3D-surfaces-with-Matplotlib/blob/main/icosahedron.png" width="300"  /> </p> | <p align="center"> <img src= "https://github.com/DrStef/Complex-3D-surfaces-with-Matplotlib/blob/main/Helicoid_Catenoid_v3.gif" width="150" /></p>|
 | ---       | ---                          |   ---         |
 |<p align="center">  <i>  Gyroid </i></p>  |  <p align="center">  <i>  Polyhedrons </i>  </p>       |   <p align="center">   <i> Helicoid-Catenoid </i> </p> |
 
