@@ -88,7 +88,7 @@ After cleaning the dataset, running statistics, identifying the most relevant va
 <br>
 <br>
 
-## **Engineering mathematics**
+## **Engineering Mathematics**
 
 - #### <ul> [**Matplotlib - 3D surfaces**](https://github.com/DrStef/Complex-3D-surfaces-with-Matplotlib/blob/main/README.md)</ul> 
  
