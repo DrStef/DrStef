@@ -63,7 +63,7 @@ Old dataset on housing prices derived from the U.S. Census Service to present in
  
 - #### <ul> [Data Analysis with Python](https://github.com/DrStef/Data-Analysis-with-Python/blob/main/README.md) </ul>
 
-<ul><ul><img src="https://github.com/DrStef/Data-Analysis-with-Python/blob/main/Data_Analysis_Python_002.png"  align="right"  width="200px"/> 
+<ul><ul><img src="https://github.com/DrStef/Data-Analysis-with-Python/blob/main/Data_Analysis_Python_003.png"  align="right"  width="200px"/> 
 <br>
 Dataset: car dataset including various makes, specifications and prices. <br>
 After cleaning the dataset, running statistics, identifying the most relevant variables, we develop several models that will predict the price of a car using a set of features/variables.   </ul> </ul> 
