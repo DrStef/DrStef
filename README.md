@@ -1,6 +1,10 @@
 
 ## **Machine Learning - Deep Learning Projects**
 
+
+###  **Advanced projects**
+This section contains Research and Development projects in Machine Learning and Deep Learning that require original developments. They call on our expertise in Digital Signal Processing, Optimization, Calculus, Linear Algebra. <br>
+
 - #### <ul>[Deep Learning and Digital Signal Processing for Environmental Sound Classification](https://github.com/DrStef/Deep-Learning-and-Digital-Signal-Processing-for-Environmental-Sound-Classification/blob/main/README.md) </ul>
 <ul><ul>
  <img src="https://github.com/DrStef/Deep-Learning-and-Digital-Signal-Processing-for-Environmental-Sound-Classification/blob/main/MelSpectrogram.png"  align="right"  width="200px"/>
@@ -10,10 +14,6 @@ Automatic environmental sound classification (ESC) based on ESC-50 dataset (and 
 <br>
 We implement custom pre-processing and use mel-spectrograms, wavelet transforms along with Convolutional Neural Networks (CNN) for achieving highest accuracy >90%.    
 </ul></ul>
-
-
-###  **Advanced projects**
-This section contains Research and Development projects in Machine Learning and Deep Learning that require original developments. They call on our expertise in Digital Signal Processing, Optimization, Calculus, Linear Algebra. <br>
 
 - #### <ul>[Machine Learning and Digital Signal Processing for Genome Classification](https://github.com/DrStef/Machine-Learning-and-Digital-Signal-Processing-for-Genome-Classification/blob/main/README.md) </ul>
 <ul><ul>
