@@ -91,11 +91,13 @@ After cleaning the dataset, running statistics, identifying the most relevant va
 <br>
  
 ## **Digital Signal Processing**
-<br> 
+
 
  - #### <ul> **6 microphones circular array - Generalized Sidelobe Cancellation (GSC) beamformer**   </ul>  
  - #### <ul> **Binaural Beamforming - Generalized Sidelobe Cancellation (GSC) beamformer**   </ul> 
  
+<br>
+
  
 ## **Engineering Mathematics**
 <br>
@@ -110,9 +112,6 @@ After cleaning the dataset, running statistics, identifying the most relevant va
 
  </ul></ul>
  
- 
- 
-
 - #### <ul> **Linear Algebra problems**   </ul>   
 - #### <ul> **Discrete optimization: Genetic Algorithms**   </ul>   
 
