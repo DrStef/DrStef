@@ -86,11 +86,16 @@ After cleaning the dataset, running statistics, identifying the most relevant va
 
 - #### <ul> **Stock extraction \& vizualisation - yFinance, Webscraping**</ul> 
   
-- #### <ul> **Data Science Methodology**</ul> 
 
 <br>
 <br>
+ 
+## **Digital Signal Processing**
 
+ - #### <ul> **6 mcicophones circular array - Generalized Sidelobe Cancellation (GSC) beamformer**   </ul>  
+ - #### <ul> **Binaural Beamforming - Generalized Sidelobe Cancellation (GSC) beamformer**   </ul> 
+ 
+ 
 ## **Engineering Mathematics**
 
 - #### <ul> [**Matplotlib - 3D surfaces**](https://github.com/DrStef/Complex-3D-surfaces-with-Matplotlib/blob/main/README.md)</ul> 
@@ -105,7 +110,7 @@ After cleaning the dataset, running statistics, identifying the most relevant va
  
  
  
-- #### <ul> **Digital Signal Processing**   </ul>  
+
 - #### <ul> **Linear Algebra problems**   </ul>   
 - #### <ul> **Discrete optimization: Genetic Algorithms**   </ul>   
 
