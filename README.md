@@ -93,8 +93,8 @@ After cleaning the dataset, running statistics, identifying the most relevant va
 ## **Digital Signal Processing**
 
 
- - #### <ul> **6 microphones circular array - Generalized Sidelobe Cancellation (GSC) beamformer**   </ul>  
- - #### <ul> **Binaural Beamforming - Generalized Sidelobe Cancellation (GSC) beamformer**   </ul> 
+ - #### <ul> **6 microphones circular array - Generalized Sidelobe Canceller (GSC)**   </ul>  
+ - #### <ul> **Binaural Beamforming - Generalized Sidelobe Canceller (GSC)**   </ul> 
  
 <br>
 
