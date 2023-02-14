@@ -91,13 +91,15 @@ After cleaning the dataset, running statistics, identifying the most relevant va
 <br>
  
 ## **Digital Signal Processing**
+<br> 
 
- - #### <ul> **6 mcicophones circular array - Generalized Sidelobe Cancellation (GSC) beamformer**   </ul>  
+ - #### <ul> **6 microphones circular array - Generalized Sidelobe Cancellation (GSC) beamformer**   </ul>  
  - #### <ul> **Binaural Beamforming - Generalized Sidelobe Cancellation (GSC) beamformer**   </ul> 
  
  
 ## **Engineering Mathematics**
-
+<br>
+ 
 - #### <ul> [**Matplotlib - 3D surfaces**](https://github.com/DrStef/Complex-3D-surfaces-with-Matplotlib/blob/main/README.md)</ul> 
  
  <ul><ul> 
