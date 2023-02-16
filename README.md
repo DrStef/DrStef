@@ -21,8 +21,8 @@ Convolutional Neural Networks (CNN) achieves accuracy close to 98%, with custom 
 In this project we develop effective methods for classifying mitochondrial genomes (DNA sequences) based on Digital Signal Processing, Machine Learning, Deep Learning. This is on-going research and results will be published on a regular basis. As a starting point we analyzed the following paper: <br>
  <i><b> "ML-DSP: Machine Learning with Digital Signal Processing for ultrafast, accurate, and scalable genome classification at all taxonomic levels" </b></i> by Gurjit S. Randhawa , Kathleen A. Hill and Lila Kari. https://doi.org/10.1186/s12864-019-5571-y
 <br><br>
-Their DNA sequence classification method: ML-DSP is very effective.
-They collected a large number of DNA sequences, and built many datasets: Vertebrates, Fungi, Insects,... Our objective is to develop methods that outperform the accuracy of ML-DSP with the most challenging datasets. </ul></ul>
+Their alignement free DNA sequence classification approach: ML-DSP is very effective.
+By introducing a simple alignment technique and short FFTs:  ML-FFT + SofAlign approach, we outperform ML-DSP applied with difficult datasets: Fungi, Insects. </ul></ul>
 
 
 
