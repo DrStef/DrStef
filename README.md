@@ -22,7 +22,7 @@ In this project we develop effective methods for classifying mitochondrial genom
  <i><b> "ML-DSP: Machine Learning with Digital Signal Processing for ultrafast, accurate, and scalable genome classification at all taxonomic levels" </b></i> by Gurjit S. Randhawa , Kathleen A. Hill and Lila Kari. https://doi.org/10.1186/s12864-019-5571-y
 <br><br>
 Their alignement free DNA sequence classification approach: ML-DSP is very effective.
-By introducing a simple alignment technique and short FFTs:  ML-FFT + SofAlign approach, we outperform ML-DSP applied with difficult datasets: Fungi, Insects. </ul></ul>
+By introducing a simple alignment technique and short FFTs:  ML-FFT + SoftAlign, we outperform ML-DSP with difficult datasets: Fungi, Insects. </ul></ul>
 
 
 
