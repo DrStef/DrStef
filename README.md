@@ -12,7 +12,7 @@ Automatic environmental sound classification (ESC) based on ESC-50 dataset (and 
 <b><i> "ESC: Dataset for Environmental Sound Classification." </i></b> by Karol J. Piczak. 2015. In Proceedings of the 23rd ACM international conference on Multimedia (MM '15). Association for Computing Machinery, New York, NY, USA, 1015–1018. https://doi.org/10.1145/2733373.2806390" 
 <br clear="left"/>
 <br>
-Convolutional Neural Networks (CNN) achieves accuracy close to 98%, with custom pre-processing and a fusion mel-spectrograms + complex wavelet transforms.    
+ Convolutional Neural Networks (CNN) achieves accuracy close to <b>99%</b>, with custom pre-processing and a fusion mel-spectrograms + complex wavelet transforms.    
 </ul></ul>
 
 - #### <ul>[Machine Learning and Digital Signal Processing for Genome Classification](https://github.com/DrStef/Machine-Learning-and-Digital-Signal-Processing-for-Genome-Classification/blob/main/README.md) </ul>
