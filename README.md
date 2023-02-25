@@ -78,7 +78,7 @@ After cleaning the dataset, running statistics, identifying the most relevant va
  
  |<p align="center">   <img src="https://github.com/DrStef/Data-Visualization-with-Python/blob/main/Canada_immigration_wordcloud.png"  width="150"  />                        </p>    |  <p align="center"> <img src="https://github.com/DrStef/Data-Visualization-with-Python/blob/main/Crime_SF_folium_v02.png" width="200"  /> </p> | <p align="center"> <img src= "https://github.com/DrStef/Data-Visualization-with-Python/blob/main/Choropleth_can_immigration.png" width="200" /></p>|
 | ---       | ---                          |   ---         |
- |<p align="center"> <i> Word Cloud </i> </p>  |  <p align="center"> <i> Folium with markers </i> </p>       |   <p align="center"> <i> Choropleth </i> </p> |
+ |<p align="center"> <sub><b> <i> Word Cloud </i> </b> </sub>  </p>  |  <p align="center"> <sub><b><i> Folium with markers </i> </b> </sub>  </p>       |   <p align="center"> <sub><b><i> Choropleth </i></b> </sub>  </p> |
 
  </ul></ul>
  
