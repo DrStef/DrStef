@@ -99,7 +99,7 @@ After cleaning the dataset, running statistics, identifying the most relevant va
 <br>
 
  
-## **Engineering Mathematics**
+## **Modeling and scientific computing**
 <br>
  
 - #### <ul> [**Matplotlib - 3D surfaces**](https://github.com/DrStef/Complex-3D-surfaces-with-Matplotlib/blob/main/README.md)</ul> 
@@ -138,3 +138,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <i>stephane.dedieu@bloo-audio.com</i>
 - ⚡ Hobbies: stock market, economics, geopolitics.
 - ⚡ Fun fact: ...
+
+Modeling is the process that formalizes a concrete problem in mathematical terms accessible to analysis and numerical calculation.
+
+Scientific computing is the interdisciplinary field that brings together the methods and algorithms for performing, using computers, numerical simulations based on a scientific approach. Most models involve equations (differential or partial derivatives) too complicated to be solved by elementary methods or using computer algebra techniques. Scientific computing proposes to give approximate numerical solutions to these models. The development of scientific computing is linked to the regular increase in the power of computers. It is therefore a constantly evolving sector.
+
+Companies that use and develop modeling and scientific computing range from large state-owned or private companies responsible for designing and developing complex systems to small companies or start-ups specializing in software development. They operate in all sectors of activity: aeronautics and space, energy and environment, automotive, services and telecommunications, civil engineering. Reserved for the upstream dimensioning and verification of complex systems until recently, digital simulation has become widespread because it saves significant time on the design and production cycles of more elementary new products. Very often the design of an object or a system responding to general specifications is formalized as a constrained optimization problem. Modeling and scientific computing are therefore very often used in combination with optimization methods
