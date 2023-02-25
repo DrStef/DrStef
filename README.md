@@ -108,7 +108,7 @@ After cleaning the dataset, running statistics, identifying the most relevant va
  
 | <p align="center"> <img src= "https://github.com/DrStef/Complex-3D-surfaces-with-Matplotlib/blob/main/Fig8_torus03.png" width="150" /></p>                            |<p align="center">   <img src="https://github.com/DrStef/Complex-3D-surfaces-with-Matplotlib/blob/main/Gyroid.png"  width="150"  />                        </p>    |  <p align="center"> <img src="https://github.com/DrStef/Complex-3D-surfaces-with-Matplotlib/blob/main/Poly_002.png" width="150"  /> </p> | <p align="center"> <img src= "https://github.com/DrStef/Complex-3D-surfaces-with-Matplotlib/blob/main/Helicoid_Catenoid_v3.gif" width="150" /></p>|
 | ---     | ---   | ---   |   ---    |
-|  <p align="center">  <i>  "Figure 8" toroid </i></p>               |<p align="center">  <i>  Gyroid </i></p>  |  <p align="center">  <i> Truncated cuboctahedron </i>  </p>       |   <p align="center">   <i> Helicoid-Catenoid </i> </p> |
+  |  <p align="center">  <sub><b> <i>  "Figure 8" toroid </i> </b> </sub>     </p>               |<p align="center"> <sub><b> <i>  Gyroid </i>  </b> </sub>  </p>  |  <p align="center">  <sub><b><i> Truncated cuboctahedron </i></b> </sub>   </p>       |   <p align="center">  <sub><b> <i> Helicoid-Catenoid </i></b> </sub>  </p> |
 
  </ul></ul>
  
