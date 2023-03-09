@@ -112,9 +112,7 @@ After cleaning the dataset, running statistics, identifying the most relevant va
 
  </ul></ul>
  
-
-- #### <ul>   </ul> 
-- #### <ul> [**Discrete optimization: Genetic Algorithms - Bin-packing**]( )</ul> 
+- #### <ul> [**Discrete optimization: Genetic Algorithms - Bin-packing**](https://github.com/DrStef/Discrete-Optimization/blob/main/README.md)</ul> 
 - #### <ul> **Linear Algebra problems**   </ul>   
 <br>
 <br>
