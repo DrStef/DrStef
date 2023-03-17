@@ -93,8 +93,8 @@ After cleaning the dataset, running statistics, identifying the most relevant va
 ## **Digital Signal Processing**
 
  - #### <ul> **Microphone Array - Beamforming**   </ul> 
- - #### <ul> **6 microphones circular array - Generalized Sidelobe Canceller (GSC)**   </ul>  
- - #### <ul> **Binaural Beamforming - Generalized Sidelobe Canceller (GSC)**   </ul> 
+ - #### <ul> **6 microphones circular array - Generalized Sidelobe Canceller (GSC) - Validation**   </ul>  
+ - #### <ul> **Binaural Beamforming - Generalized Sidelobe Canceller (GSC) - Validation**   </ul> 
  - #### <ul> **A few words about complex wavelet transforms**   </ul> 
  
 <br>
@@ -104,6 +104,8 @@ After cleaning the dataset, running statistics, identifying the most relevant va
 <br>
  
 - #### <ul> [**Discrete optimization: Genetic Algorithms - Bin-packing**](https://github.com/DrStef/Discrete-Optimization/blob/main/README.md)</ul> 
+ 
+- #### <ul> **Electroacoustics - Simulations**   </ul> 
  
 - #### <ul> [**Matplotlib - 3D surfaces**](https://github.com/DrStef/Complex-3D-surfaces-with-Matplotlib/blob/main/README.md)</ul> 
  
