@@ -103,9 +103,10 @@ After cleaning the dataset, running statistics, identifying the most relevant va
 ## **Modeling and Scientific Computing**
 <br>
  
-- #### <ul> [**Discrete optimization: Genetic Algorithms - Bin-packing**](https://github.com/DrStef/Discrete-Optimization/blob/main/README.md)</ul> 
  
 - #### <ul> **Electroacoustics - Simulations**   </ul> 
+ 
+- #### <ul> [**Discrete optimization: Genetic Algorithms - Bin-packing**](https://github.com/DrStef/Discrete-Optimization/blob/main/README.md)</ul> 
  
 - #### <ul> [**Matplotlib - 3D surfaces**](https://github.com/DrStef/Complex-3D-surfaces-with-Matplotlib/blob/main/README.md)</ul> 
  
