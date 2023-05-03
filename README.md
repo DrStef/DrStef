@@ -92,7 +92,7 @@ After cleaning the dataset, running statistics, identifying the most relevant va
  
 ## **Digital Signal Processing**
 
- - #### <ul> **Microphone Array - Beamforming**   </ul> 
+ - #### <ul> **Microphone Array - Beamforming** </ul> 
  - #### <ul> **6 microphones circular array - Generalized Sidelobe Canceller (GSC) - Validation**   </ul>  
  - #### <ul> **Binaural Beamforming - Generalized Sidelobe Canceller (GSC) - Validation**   </ul> 
  - #### <ul> **A few words about complex wavelet transforms**   </ul> 
@@ -103,7 +103,7 @@ After cleaning the dataset, running statistics, identifying the most relevant va
 ## **Modeling and Scientific Computing**
 <br>
 
-- #### <ul> **Integral equation - Boundary Element Methods (BEM) ** </ul> 
+- #### <ul>**Integral equation - Boundary Elements Method (BEM)**</ul> 
  
 - #### <ul> [**Electroacoustics - Simulations**](https://github.com/DrStef/Electroacoustics/blob/main/README.md) </ul> 
  
