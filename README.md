@@ -102,7 +102,8 @@ After cleaning the dataset, running statistics, identifying the most relevant va
  
 ## **Modeling and Scientific Computing**
 <br>
- 
+
+- #### <ul> **Integral equation - Boundary Element Methods (BEM) ** </ul> 
  
 - #### <ul> [**Electroacoustics - Simulations**](https://github.com/DrStef/Electroacoustics/blob/main/README.md) </ul> 
  
