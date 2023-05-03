@@ -104,7 +104,7 @@ After cleaning the dataset, running statistics, identifying the most relevant va
 <br>
  
  
-- #### <ul> **Electroacoustics - Simulations**   </ul> 
+- #### <ul> [**Electroacoustics - Simulations**](https://github.com/DrStef/Electroacoustics/blob/main/README.md) </ul> 
  
 - #### <ul> [**Discrete optimization: Genetic Algorithms - Bin-packing**](https://github.com/DrStef/Discrete-Optimization/blob/main/README.md)</ul> 
  
