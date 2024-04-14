@@ -93,9 +93,9 @@ After cleaning the dataset, running statistics, identifying the most relevant va
 ## **Digital Signal Processing**
 
  - #### <ul> **Microphone Array - Beamforming** </ul> 
- - #### <ul> **6 microphones circular array - Generalized Sidelobe Canceller (GSC) - Validation**   </ul>  
- - #### <ul> **Binaural Beamforming - Generalized Sidelobe Canceller (GSC) - Validation**   </ul> 
- - #### <ul> **A few words about complex wavelet transforms**   </ul> 
+ - #### <ul> **6 microphones circular array - Generalized Sidelobe Canceller (GSC) - Validation**   </ul>
+ - #### <ul> [**Binaural Beamforming - Generalized Sidelobe Canceller (GSC) - Validation**](https://github.com/DrStef/Binaural_Beamforming/blob/main/README.md)</ul>
+ - #### <ul> **A few words about complex wavelet transforms**   </ul>
  
 <br>
 
