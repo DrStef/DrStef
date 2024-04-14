@@ -33,7 +33,7 @@ This section is a portfolio of Machine Learning projects with Python and various
 Some projects have been improved by incorporating more in-depth data analysis, better graphs, advanced ML techniques. 
 
 - #### <ul> [SpaceX Falcon 9 First Stage Landing Prediction](https://github.com/DrStef/Applied_Data_Science_Capstone_SpaceX_IBM/blob/main/README.md) </ul>      
-<ul><ul> <img src="https://camo.githubusercontent.com/528a4189b625eca22823147171665b2b1f5286b3a617b52b81369f3fcd76f8e5/68747470733a2f2f63662d636f75727365732d646174612e73332e75732e636c6f75642d6f626a6563742d73746f726167652e617070646f6d61696e2e636c6f75642f49424d446576656c6f706572536b696c6c734e6574776f726b2d445330373031454e2d536b696c6c734e6574776f726b2f6c61625f76322f696d616765732f6c616e64696e675f312e676966"  align="right"  width="200px"/>
+<ul><ul> <img src="https://github.com/DrStef/Applied_Data_Science_Capstone_SpaceX_IBM/blob/main/spacex-MEW1f-yu2KI-unsplash.jpg"  align="right"  width="200px"/>
 In this project, we predict if the Falcon 9 first stage will land successfully. Project includes: SpaceX data collection, Data Wrangling, Webscraping,  EDA with SQL Queries & Data visualization, SpaceX Launch Records Dashboard, Launch Sites Locations Analysis with Folium, Machine Learning classification with optimization of hyperparameters and selection of best model: KNN, Decision Tree, SVM, Logistic Regression. </ul></ul>
 
  
