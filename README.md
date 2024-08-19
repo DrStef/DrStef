@@ -28,8 +28,14 @@ In this project we develop effective methods for classifying mitochondrial genom
 Their alignement free DNA sequence classification approach: ML-DSP is very effective.
 By introducing a simple alignment technique and short FFTs:  ML-FFT + SoftAlign, we outperform ML-DSP with difficult datasets: Fungi, Insects. </ul></ul>
 
+- #### <ul>Deep Learning and Digital Signal Processing: Voice Activity Detection</ul>
 
 
+
+- #### <ul>Machine Learning and Digital Signal Processing: Sound Source Localization</ul>
+
+<br>
+<br>
 
 ### **Standard projects**
   
