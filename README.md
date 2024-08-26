@@ -17,7 +17,7 @@ Automatic environmental sound classification (ESC) based on ESC-50 dataset (and 
 <br clear="left"/>
 <br>
  Multi-feature Convolutional Neural Networks (CNN) achieves accuracy close to <b>99%</b>, with custom pre-processing and a fusion mel-spectrograms + complex wavelet transforms.    <br>
-The last confusion "sea waves" "rain" is solved by developping an original transform of the complex CWT.  This Transform, <i> aT-CWT </i> replaces the phase of the CWT for stationary, pseudo-stationary sounds with a Gaussian characteristics.  <br> With the <i> aT-CWT </i> transform, <b><i> the multi-feature CNN model achieves 100% accuracy. </i></b>   
+The last confusion "sea waves" "rain" is solved by developping an original transform of the complex CWT.  This Transform, <i> aT-CWT </i> replaces the phase of the CWT for stationary, pseudo-stationary sounds with a Gaussian distribution.  <br> With the <i> aT-CWT </i> transform, <b><i> the multi-feature CNN model achieves 100% accuracy. </i></b>   
 </ul></ul>
 
 - #### <ul>[Machine Learning and Digital Signal Processing for Genome Classification (supervised)](https://github.com/DrStef/Machine-Learning-and-Digital-Signal-Processing-for-Genome-Classification/blob/main/README.md) </ul>
