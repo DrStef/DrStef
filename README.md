@@ -68,7 +68,7 @@ Loan Status Prediction using Supervised Classification Algorithms: KNN, Decision
 
 <br>
 
-## **Data Analysis - SQL, MySQL**
+## **Data Analysis**
 
 - #### <ul> [Insights in Boston real estate - Statistical analysis](https://github.com/DrStef/Statistics-for-Data-Science-with-Python/blob/main/README.md)    </ul>
     
