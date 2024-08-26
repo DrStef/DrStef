@@ -54,7 +54,7 @@ In this project, we predict if the Falcon 9 first stage will land successfully. 
 A widerange of small projects with various ML techniques, prediction, supervised and unsupervised classification: Linear Regression, Polynomial Regression, Non-Linear Regression, Recommandation Systems, KNN, Customer Segmentation with K-Means, Hierarchical Clustering, Density-Based Clustering, Logistic Regression. </ul></ul>
 
  
-- #### <ul> [House sales in King County USA](https://github.com/DrStef/House_Sales_in_King_County_USA_IBM/blob/main/README.md) </ul>   
+- #### <ul> [House sales in King County USA (IBM Course - Data Analysis with Python)](https://github.com/DrStef/House_Sales_in_King_County_USA_IBM/blob/main/README.md) </ul>   
  
 <ul><ul>
 <img src="https://github.com/DrStef/House_Sales_in_King_County_USA_IBM/blob/main/Project_House_Sales_in_King_County_USA_v003_LTX/output_60_0.png"  align="right"  width="200px"/> 
