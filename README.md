@@ -48,7 +48,7 @@ Some projects have been improved by incorporating more in-depth data analysis, b
 In this project, we predict if the Falcon 9 first stage will land successfully. Project includes: SpaceX data collection, Data Wrangling, Webscraping,  EDA with SQL Queries & Data visualization, SpaceX Launch Records Dashboard, Launch Sites Locations Analysis with Folium, Machine Learning classification with optimization of hyperparameters and selection of best model: KNN, Decision Tree, SVM, Logistic Regression. </ul></ul>
 
  
-- #### <ul> [**Machine Learning with Python-IBM**](https://github.com/DrStef/Machine_Learning_with_Python-IBM/blob/main/README.md)
+- #### <ul> [**Machine Learning with Python - (IBM Data Science Certificate)**](https://github.com/DrStef/Machine_Learning_with_Python-IBM/blob/main/README.md)
 
  <ul><ul><img src="https://github.com/DrStef/Machine_Learning_with_Python-IBM/blob/main/density_based_clustering_weather_001.png"  align="right"  width="200px"/>
 A widerange of small projects with various ML techniques, prediction, supervised and unsupervised classification: Linear Regression, Polynomial Regression, Non-Linear Regression, Recommandation Systems, KNN, Customer Segmentation with K-Means, Hierarchical Clustering, Density-Based Clustering, Logistic Regression. </ul></ul>
