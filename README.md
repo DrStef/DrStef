@@ -61,7 +61,7 @@ A widerange of small projects with various ML techniques, prediction, supervised
 The project consists of finding the best model for predicting home prices in King County, USA in Washington State, based on a dataset of homes sold between May 2014 and May 2015. Prediction accuracy was improved by implementing a spline regression model.<br>  One Jupyter Notebook includes interactive Folium maps (interactive maps will not display on Github). </ul></ul>
 <br> 
  
-- #### <ul> [Loan status prediction using Classification Algorithms](https://github.com/DrStef/Loan-Status-Prediction-using-Classification-Algorithms_IBM/blob/main/README.md)</ul> 
+- #### <ul> [Loan status prediction using Classification Algorithms - (IBM Data Science certificate)](https://github.com/DrStef/Loan-Status-Prediction-using-Classification-Algorithms_IBM/blob/main/README.md)</ul> 
   
 <ul><ul><img src="https://github.com/DrStef/Loan-Status-Prediction-using-Classification-Algorithms_IBM/blob/main/Loan_gender.png"  align="right"  width="200px"/> 
 Loan Status Prediction using Supervised Classification Algorithms: KNN, Decision Tree, SVM, Logistic Regression.</ul> </ul> 
