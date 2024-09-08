@@ -20,6 +20,13 @@ Automatic environmental sound classification (ESC) based on ESC-50 dataset (and 
 The last confusion "sea waves" "rain" is solved by developping an original transform of the complex CWT.  This Transform, <i> aT-CWT </i> replaces the phase of the CWT for stationary, pseudo-stationary sounds with a Gaussian distribution.  <br> With the <i> aT-CWT </i> transform, <b><i> the multi-feature CNN model achieves 100% accuracy. </i></b>   
 </ul></ul>
 
+- #### <ul>Unsupervised anomalous sound detection for machine condition monitoring</ul>
+
+<ul><ul>
+Based on the MIMII dataset made available by Hitachi, Ltd. under a Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license. <br>
+https://zenodo.org/records/3384388
+</ul></ul>
+
 - #### <ul>[Machine Learning and Digital Signal Processing for Genome Classification (supervised)](https://github.com/DrStef/Machine-Learning-and-Digital-Signal-Processing-for-Genome-Classification/blob/main/README.md) </ul>
 <ul><ul>
 <img src="https://github.com/DrStef/Machine-Learning-and-Digital-Signal-Processing-for-Genome-Classification/blob/main/LOG_REG_Fungi_ConfusionMatrix.png"  align="right"  width="200px"/>
