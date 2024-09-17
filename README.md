@@ -23,6 +23,10 @@ The last confusion "sea waves" "rain" is solved by developping an original trans
 - #### <ul>Unsupervised anomalous sound detection for machine condition monitoring</ul>
 
 <ul><ul>
+ <img src="https://github.com/DrStef/MIMII/blob/main/MIMII_Microphone_array.png"  align="right"  width="200px"/>
+ <br>
+ <img src="https://github.com/DrStef/MIMII/blob/main/Beampattern_1000Hz.png"  align="right"  width="200px"/>
+ <ul></ul>
  
 We develop an automatic unsupervised classification model or automatic diagnosis model for detecting failures or breakdowns of industrial machinery based on their acoustics characteristics, recorded with a 8-microphones circular array. 
        
