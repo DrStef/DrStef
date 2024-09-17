@@ -23,8 +23,23 @@ The last confusion "sea waves" "rain" is solved by developping an original trans
 - #### <ul>Unsupervised anomalous sound detection for machine condition monitoring</ul>
 
 <ul><ul>
-Based on the MIMII dataset made available by Hitachi, Ltd. under a Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license. <br>
+ 
+We develop an automatic unsupervised classification model or automatic diagnosis model for detecting failures or breakdowns of industrial machinery based on their acoustics characteristics, recorded with a 8-microphones circular array. 
+       
+The model is based on the MIMII dataset made available by Hitachi, Ltd. under a Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license. <br>
 https://zenodo.org/records/3384388
+    
+In this study we somewhat violate the rules of the initial challenge: classification in noisy environment. But since we have access to multiple channels, it makes much sense to denoise the signals before starting the classification process. <br>
+Therefore, here the challenge is more about turning the 8-microphones array into a <b> "sensor" for monitoring industrial machinery sounds in a noisy envionement.</b> And identifying anomalies, failures, breakdowns.    
+Instead of classifying various machines or types of machines: pump, fan, valve, slider, ...  we will: 
+- focus on a specific machine type: valve
+- denoise the recordings* using MVDR beamforming and a custom fixed Generalized Sidelobe Canceler (GSC)
+- apply unsupervised classification, auto-encoder to two sets: single microphone recordings and denoised GSC output.   
+<br>
+<b> Applications </b>  <br>
+- <b> Rotating machinery </b> Failure Detection: bearings, motors,rotors.  <br>
+- <b> HVAC </b> Fault detection and diagnosis (FDD): pumps, compressors, valves.   
+ 
 </ul></ul>
 
 - #### <ul>[Machine Learning and Digital Signal Processing for Genome Classification (supervised)](https://github.com/DrStef/Machine-Learning-and-Digital-Signal-Processing-for-Genome-Classification/blob/main/README.md) </ul>
