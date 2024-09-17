@@ -30,7 +30,7 @@ The model is based on the MIMII dataset made available by Hitachi, Ltd. under a 
 https://zenodo.org/records/3384388
     
 In this study we somewhat violate the rules of the initial challenge: classification in noisy environment. But since we have access to multiple channels, it makes much sense to denoise the signals before starting the classification process. <br>
-Therefore, here the challenge is more about turning the 8-microphones array into a <b> "sensor" for monitoring industrial machinery sounds in a noisy envionement.</b> And identifying anomalies, failures, breakdowns.    
+Therefore, here the challenge is more about turning the 8-microphones array into a <b> "sensor" for monitoring industrial machinery sounds in a noisy environment.</b> And identifying anomalies, failures, breakdowns.    
 Instead of classifying various machines or types of machines: pump, fan, valve, slider, ...  we will: 
 - focus on a specific machine type: valve
 - denoise the recordings* using MVDR beamforming and a custom fixed Generalized Sidelobe Canceler (GSC)
