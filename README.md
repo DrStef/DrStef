@@ -48,7 +48,12 @@ Instead of classifying various machines or types of machines: pump, fan, valve, 
 
 - #### <ul>[Machine Learning and Digital Signal Processing for Genome Classification (supervised)](https://github.com/DrStef/Machine-Learning-and-Digital-Signal-Processing-for-Genome-Classification/blob/main/README.md) </ul>
 <ul><ul>
+
 <img src="https://github.com/DrStef/Machine-Learning-and-Digital-Signal-Processing-for-Genome-Classification/blob/main/LOG_REG_Fungi_ConfusionMatrix.png"  align="right"  width="200px"/>
+<br>
+<img src="https://github.com/DrStef/Machine-Learning-and-Digital-Signal-Processing-for-Genome-Classification/blob/main/SVM_Bird_Fish_Mammal_Classification.png"  align="right"  width="300px"/>
+
+
 In this project we develop effective methods for classifying mitochondrial genomes (DNA sequences) based on Digital Signal Processing, Machine Learning, Deep Learning. This is on-going research and results will be published on a regular basis. As a starting point we analyzed the following paper: <br>
  <i><b> "ML-DSP: Machine Learning with Digital Signal Processing for ultrafast, accurate, and scalable genome classification at all taxonomic levels" </b></i> by Gurjit S. Randhawa , Kathleen A. Hill and Lila Kari. https://doi.org/10.1186/s12864-019-5571-y
 <br><br>
