@@ -20,7 +20,7 @@ Automatic environmental sound classification (ESC) based on ESC-50 dataset (and 
 The last confusion "sea waves" "rain" is solved by developping an original transform of the complex CWT.  This Transform, <i> aT-CWT </i> replaces the phase of the CWT for stationary, pseudo-stationary sounds with a Gaussian distribution.  <br> With the <i> aT-CWT </i> transform, <b><i> the multi-feature CNN model achieves 100% accuracy. </i></b>   
 </ul></ul>
 
-- #### <ul>Unsupervised anomalous sound detection for machine condition monitoring</ul>
+- #### <ul>[Unsupervised anomalous sound detection for machine condition monitoring](https://github.com/DrStef/MIMII/blob/main/README.md)</ul>
 
 <ul><ul>
  <img src="https://github.com/DrStef/MIMII/blob/main/Beampattern_1000Hz.png"  align="right"  width="250px"/>
@@ -32,13 +32,15 @@ We develop an automatic unsupervised classification model or automatic diagnosis
        
 The model is based on the MIMII dataset made available by Hitachi, Ltd. under a Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license. <br>
 https://zenodo.org/records/3384388
-    
-In this study we somewhat violate the rules of the initial challenge: classification in noisy environment. But since we have access to multiple channels, it makes much sense to denoise the signals before starting the classification process. <br>
-Therefore, here the challenge is more about turning the 8-microphones array into a <b> "sensor" for monitoring industrial machinery sounds in a noisy environment.</b> And identifying anomalies, failures, breakdowns.    
-Instead of classifying various machines or types of machines: pump, fan, valve, slider, ...  we will: 
-- focus on a specific machine type: valve
-- denoise the recordings* using MVDR beamforming and a custom fixed Generalized Sidelobe Canceler (GSC)
-- apply unsupervised classification, auto-encoder to two sets: single microphone recordings and denoised GSC output.   
+
+Unlike most classification models found in literature, this study somewhat deviates from the initial challenge's rules: classification of noisy signals. However, since we have access to multiple channels, it makes practical sense to denoise the signals before initiating the classification process.
+Thus, the challenge here is transforming the 8-microphone array into a "sensor" for monitoring industrial machinery sounds in noisy environments. Then, we apply the classification model to these denoised signals to automatically identify anomalies, failures, or breakdowns.
+
+Rather than classifying various types of machines (pumps, fans, valves, sliders), our focus will be:
+- Concentrating on a specific machine type: valves.
+- Denoising the recordings using MVDR beamforming combined with a custom, fixed Generalized Sidelobe Canceler (GSC).
+- Applying unsupervised classification techniques (auto-encoder, etc.) to two sets of signals: single microphone recordings and the denoised GSC output, to detect defective valves and demonstrate the benefits of MVDR beamforming combined with GSC.
+ 
 <br>
 <b> Applications </b>  <br>
 - <b> Rotating machinery </b> Failure Detection: bearings, motors,rotors.  <br>
