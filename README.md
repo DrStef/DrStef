@@ -34,7 +34,7 @@ The model is based on the MIMII dataset made available by Hitachi, Ltd. under a 
 https://zenodo.org/records/3384388
 
 Unlike most classification models found in literature, this study somewhat deviates from the initial challenge's rules: classification of noisy signals. However, since we have access to multiple channels, it makes practical sense to denoise the signals before initiating the classification process.
-Thus, the challenge here is transforming the 8-microphone array into a "sensor" for monitoring industrial machinery sounds in noisy environments. Then, we apply the classification model to these denoised signals to automatically identify anomalies, failures, or breakdowns.
+Thus, the challenge here is transforming the 8-microphone array into a <b>"sensor" for monitoring industrial machinery sounds in noisy environments</b>. Then, we apply the classification model to these denoised signals to automatically identify anomalies, failures, or breakdowns.
 
 Rather than classifying various types of machines (pumps, fans, valves, sliders), our focus will be:
 - Concentrating on a specific machine type: valves.
