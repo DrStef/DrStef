@@ -11,13 +11,21 @@ This section contains Research and Development projects in Machine Learning and 
  <br>
  <img src="https://github.com/DrStef/Deep-Learning-and-Digital-Signal-Processing-for-Environmental-Sound-Classification/blob/main/MelSpectrogram.png"  align="right"  width="200px"/>
  <ul></ul>
- 
-Automatic environmental sound classification (ESC) based on ESC-50 dataset (and ESC-10 subset) built by Karol Piczak and described in the following article: <br>
+
+Automatic Environmental Sound Classification (ESC) leverages the ESC-50 dataset (and its ESC-10 subset) developed by Karol Piczak, as detailed in his paper titled: 
 <b><i> "ESC: Dataset for Environmental Sound Classification." </i></b> by Karol J. Piczak. 2015. In Proceedings of the 23rd ACM international conference on Multimedia (MM '15). Association for Computing Machinery, New York, NY, USA, 1015–1018. https://doi.org/10.1145/2733373.2806390" 
-<br clear="left"/>
-<br>
- Multi-feature Convolutional Neural Networks (CNN) achieves accuracy close to <b>99%</b>, with custom pre-processing and a fusion mel-spectrograms + complex wavelet transforms.    <br>
-The last confusion "sea waves" "rain" is solved by developping an original transform of the complex CWT.  This Transform, <i> aT-CWT </i> replaces the phase of the CWT for stationary, pseudo-stationary sounds with a Gaussian distribution.  <br> With the <i> aT-CWT </i> transform, <b><i> the multi-feature CNN model achieves 100% accuracy. </i></b>   
+<br clear="left"/> <br>
+This dataset serves as a foundation for research in audio event recognition. 
+
+Advancements in ESC Using Multi-Feature CNNs:
+
+We propose a two-stages classification approach with Multi-feature Convolutional Neural Networks (CNNs), achieving near-perfect accuracy rates, specifically reaching up to 99%. This high accuracy is attributed to innovative pre-processing techniques that combine mel-spectrograms with complex wavelet transforms (CWT).
+
+Resolution of Reamining Classification Challenges:
+
+A notable challenge in ESC-10 sound classification was the confusion between "sea waves" and "rain" sounds. This issue was addressed by developing an original transformation of the complex CWT, termed <i>aT-CWT</i>. This transformation replaces the phase component of the CWT for stationary and pseudo-stationary sounds with a Gaussian distribution, enhancing the model's ability to differentiate between similar sounding environmental events. <br>
+By integrating the <i>aT-CWT</i> transformation, the multi-feature CNN model has now achieved 100% accuracy in classifying environmental sounds from the ESC-10 dataset. 
+
 </ul></ul>
 
 - #### <ul>[Unsupervised anomalous sound detection for machine condition monitoring](https://github.com/DrStef/MIMII/blob/main/README.md)</ul>
