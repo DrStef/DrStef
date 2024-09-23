@@ -63,12 +63,12 @@ Rather than classifying various types of machines (pumps, fans, valves, sliders)
 <br>
 <img src="https://github.com/DrStef/Machine-Learning-and-Digital-Signal-Processing-for-Genome-Classification/blob/main/SVM_Bird_Fish_Mammal_Classification.png"  align="right"  width="300px"/>
 
-
-In this project we develop effective methods for classifying mitochondrial genomes (DNA sequences) based on Digital Signal Processing, Machine Learning, Deep Learning. This is on-going research and results will be published on a regular basis. As a starting point we analyzed the following paper: <br>
+In this project, we are developing effective methods for classifying mitochondrial genomes (DNA sequences) using Digital Signal Processing (DSP), Machine Learning (ML), and Deep Learning (DL). This research is ongoing, and we plan to publish our results regularly. As a starting point, we analyzed the paper titled: <br>
  <i><b> "ML-DSP: Machine Learning with Digital Signal Processing for ultrafast, accurate, and scalable genome classification at all taxonomic levels" </b></i> by Gurjit S. Randhawa , Kathleen A. Hill and Lila Kari. https://doi.org/10.1186/s12864-019-5571-y
 <br><br>
-Their alignement free DNA sequence classification approach: ML-DSP is very effective.
-By introducing a simple alignment technique and short FFTs:  ML-FFT + SoftAlign, we outperform ML-DSP with difficult datasets: Fungi, Insects. </ul></ul>
+The alignment-free DNA sequence classification approach: <i>ML-DSP</i>, proposed by Gurjit S. Randhawa has proven to be very effective. <br>  By introducing a simple alignment technique alongside short Fast Fourier Transforms (FFTs), termed <i>ML-FFT + SoftAlign</i>, we have surpassed the performance of <i>ML-DSP</i>, particularly with challenging datasets such as those from Fungi and Insects.
+
+ </ul></ul>
 
 - #### <ul>Deep Learning and Digital Signal Processing: Voice Activity Detection (VAD)</ul>
 
