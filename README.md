@@ -21,7 +21,7 @@ Advancements in ESC Using Multi-Feature CNNs:
 
 We propose a two-stages classification approach with Multi-feature Convolutional Neural Networks (CNNs), achieving near-perfect accuracy rates, specifically reaching up to 99%. This high accuracy is attributed to innovative pre-processing techniques that combine mel-spectrograms with complex wavelet transforms (CWT).
 
-Resolution of Reamining Classification Challenges:
+Resolution of Remaining Classification Challenges:
 
 A notable challenge in ESC-10 sound classification was the confusion between "sea waves" and "rain" sounds. This issue was addressed by developing an original transformation of the complex CWT, termed <i>aT-CWT</i>. This transformation replaces the phase component of the CWT for stationary and pseudo-stationary sounds with a Gaussian distribution, enhancing the model's ability to differentiate between similar sounding environmental events. <br>
 By integrating the <i>aT-CWT</i> transformation, the multi-feature CNN model has now achieved 100% accuracy in classifying environmental sounds from the ESC-10 dataset. 
