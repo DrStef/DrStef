@@ -7,9 +7,9 @@ This section contains Research and Development projects in Machine Learning and 
 
 - #### <ul>[Deep Learning and Digital Signal Processing for Environmental Sound Classification (supervised)](https://github.com/DrStef/Deep-Learning-and-Digital-Signal-Processing-for-Environmental-Sound-Classification/blob/main/README.md) </ul>
 <ul><ul>
- <img src="https://github.com/DrStef/Deep-Learning-and-Digital-Signal-Processing-for-Environmental-Sound-Classification/blob/main/esc10_v23_100pc.png"  align="right"  width="200px"/>
+ <img src="https://github.com/DrStef/Deep-Learning-and-Digital-Signal-Processing-for-Environmental-Sound-Classification/blob/main/esc10_sound_classification/docs/figures/esc10_v23_100pc.png"  align="right"  width="200px"/>
  <br>
- <img src="https://github.com/DrStef/Deep-Learning-and-Digital-Signal-Processing-for-Environmental-Sound-Classification/blob/main/MelSpectrogram.png"  align="right"  width="200px"/>
+ <img src="https://github.com/DrStef/Deep-Learning-and-Digital-Signal-Processing-for-Environmental-Sound-Classification/blob/main/esc10_sound_classification/docs/figures/MelSpectrogram.png"  align="right"  width="200px"/>
  <ul></ul>
 
 Automatic Environmental Sound Classification (ESC) leverages the ESC-50 dataset (and its ESC-10 subset) developed by Karol Piczak, as detailed in his paper titled: 
