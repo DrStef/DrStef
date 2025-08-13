@@ -70,6 +70,7 @@ Rather than classifying various types of machines (pumps, fans, valves, sliders)
  <img src="https://github.com/DrStef/MIMII/blob/main/MIMII_Microphone_array.png"  align="right"  width="200px"/>
  <ul></ul>
 
+</ul></ul>
 
 - #### <ul>[Machine Learning and Digital Signal Processing for Genome Classification (supervised)](https://github.com/DrStef/Machine-Learning-and-Digital-Signal-Processing-for-Genome-Classification/blob/main/README.md) </ul>
 <ul><ul>
