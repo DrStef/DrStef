@@ -29,44 +29,19 @@ By integrating the <i>aT-CWT</i> transformation, the multi-feature CNN model has
 
 </ul></ul>
 
-- #### <ul>[Unsupervised anomalous sound detection for machine condition monitoring](https://github.com/DrStef/MIMII/blob/main/README.md)</ul>
+- #### <ul>[Unsupervised Valve Fault Detection](https://github.com/DrStef/MIMII/blob/main/README.md)</ul>
 
 <ul><ul>
-We developed an unsupervised classification model for detecting valve faults in industrial machinery using acoustic signals from an 8-microphone array, based on the MIMII dataset (CC BY-SA 4.0, Hitachi, Ltd., https://zenodo.org/records/3384388). <br>
-We introduced a novel ACSTFT transform, achieving an ROC AUC of 0.99 on the +6dB valve dataset, and trained a CNN-Autoencoder for robust anomaly detection. <br>
-By denoising multi-channel signals with MVDR beamforming and a custom Generalized Sidelobe Canceler (GSC), the model transforms the array into a noise-robust "sensor." Focused on valves, it classifies single-microphone and denoised GSC outputs to identify defects, enhancing fault detection in noisy environments. View project
+This project develops an automatic unsupervised classification model to diagnose valve faults in industrial machinery using acoustic signals from an 8-microphone circular array, leveraging the MIMII dataset (CC BY-SA 4.0, Hitachi, Ltd., https://zenodo.org/records/3384388). <br> 
+ We introduced a novel ACSTFT transform, achieving an impressive ROC AUC of 0.99 on the +6dB valve dataset, and trained a CNN-Autoencoder for robust anomaly detection. <br>
+Unlike standard MIMII challenge approaches that classify noisy signals directly, we prioritize denoising using MVDR beamforming combined with a custom Generalized Sidelobe Canceler (GSC), transforming the array into a noise-robust “sensor.” <br>
+Focused exclusively on valves, this model enhances fault detection in challenging industrial environments, offering a practical solution for machinery monitoring. Explore the code, ROC curves, and spectrograms showcasing our results.
 
- 
  |<p align="center">   <img src="https://github.com/DrStef/MIMII-Unsupervised-classification-of-valve-sounds/blob/main/results/plot/acstft_magnitude_spectrograms_1p5s_July03_v08.png"  width="150"  />  </p>    |  <p align="center"> <img src="https://github.com/DrStef/MIMII-Unsupervised-classification-of-valve-sounds/blob/main/results/plot/id04_ModelACSTFT_seed42_RocAuc_v01.png" width="200"  /> </p> | <p align="center"> <img src= "https://github.com/DrStef/MIMII-Unsupervised-classification-of-valve-sounds/blob/main/results/plot/id04_ModelACSTFT_seed42_MSE_v01.png"  width="200" /></p>|
 | ---       | ---                          |   ---         |
  |<p align="center"> <sub><b> <i> ACSTFT Magnitude </i> </b> </sub>  </p>  |  <p align="center"> <sub><b><i> ROC-AUC= 0.99 <br> Single Valve Type id_04  </i> </b> </sub>  </p>       |   <p align="center"> <sub><b><i> Reconstruction error (MSE)  </i></b> </sub>  </p> |   
 
-
-
-
-[old] We develop an automatic unsupervised classification model or automatic diagnosis model for detecting failures or breakdowns of industrial machinery based on their acoustics characteristics, recorded with a 8-microphones circular array. 
-       
-The model is based on the MIMII dataset made available by Hitachi, Ltd. under a Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license. <br>
-https://zenodo.org/records/3384388
-
-Unlike most classification models found in literature, this study somewhat deviates from the initial challenge's rules: classification of noisy signals. However, since we have access to multiple channels, it makes practical sense to denoise the signals before initiating the classification process.
-Thus, the challenge here is transforming the 8-microphone array into a <b>"sensor" for monitoring industrial machinery sounds in noisy environments</b>. Then, we apply the classification model to these denoised signals to automatically identify anomalies, failures, or breakdowns.
-
-Rather than classifying various types of machines (pumps, fans, valves, sliders), our focus will be:
-- Concentrating on a specific machine type: valves.
-- Denoising the recordings using MVDR beamforming combined with a custom, fixed Generalized Sidelobe Canceler (GSC).
-- Applying unsupervised classification techniques (auto-encoder, etc.) to two sets of signals: single microphone recordings and the denoised GSC output, to detect defective valves and demonstrate the benefits of MVDR beamforming combined with GSC.
- 
 <br>
-<b> Applications </b>  <br>
-- <b> Rotating machinery </b> Failure Detection: bearings, motors,rotors.  <br>
-- <b> HVAC </b> Fault detection and diagnosis (FDD): pumps, compressors, valves.   
-</ul></ul>
-
-<!--  <img src="https://github.com/DrStef/MIMII/blob/main/Beampattern_1000Hz.png"  align="right"  width="250px"/>
-  <br>
- <img src="https://github.com/DrStef/MIMII/blob/main/MIMII_Microphone_array.png"  align="right"  width="200px"/>  -->
-
 
 </ul></ul>
 
