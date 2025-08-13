@@ -40,12 +40,9 @@ Focused exclusively on valves, this model enhances fault detection in challengin
  
 <b> Applications </b>  <br>
 - <b> Rotating machinery </b> Failure Detection: bearings, motors,rotors.  <br>
-- <b> HVAC </b> Fault detection and diagnosis (FDD): pumps, compressors, valves.   
-
-
-<br><br>
-
-
+- <b> HVAC </b> Fault detection and diagnosis (FDD): pumps, compressors, valves.
+- 
+<br>
 
  |<p align="center">   <img src="https://github.com/DrStef/MIMII-Unsupervised-classification-of-valve-sounds/blob/main/results/plot/acstft_magnitude_spectrograms_1p5s_July03_v08.png"  width="150"  />  </p>    |  <p align="center"> <img src="https://github.com/DrStef/MIMII-Unsupervised-classification-of-valve-sounds/blob/main/results/plot/id04_ModelACSTFT_seed42_RocAuc_v01.png" width="150"  /> </p> | <p align="center"> <img src= "https://github.com/DrStef/MIMII-Unsupervised-classification-of-valve-sounds/blob/main/results/plot/id04_ModelACSTFT_seed42_MSE_v01.png"  width="175" /></p>|  <p align="center"> <img src= "https://github.com/DrStef/MIMII-Unsupervised-classification-of-valve-sounds/blob/main/results/plot/8micsArray_mvdr_1000Hz.png"  width="150" /></p>               |  <p align="center"> <img src= "https://github.com/DrStef/MIMII-Unsupervised-classification-of-valve-sounds/blob/main/results/plot/NR_10sClip_mvdr_em_vad_2s.png"  width="125" /></p>         |
 |:------:|:------:|:------:|:------:|:------:|       
