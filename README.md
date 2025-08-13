@@ -12,6 +12,7 @@ This section contains Research and Development projects in Machine Learning and 
  <img src="https://github.com/DrStef/Deep-Learning-and-Digital-Signal-Processing-for-Environmental-Sound-Classification/blob/main/esc10_sound_classification/docs/figures/MelSpectrogram.png"  align="right"  width="200px"/>
  <ul></ul>
 
+
 Automatic Environmental Sound Classification (ESC) leverages the ESC-50 dataset (and its ESC-10 subset) developed by Karol Piczak, as detailed in his paper titled: 
 <b><i> "ESC: Dataset for Environmental Sound Classification." </i></b> by Karol J. Piczak. 2015. In Proceedings of the 23rd ACM international conference on Multimedia (MM '15). Association for Computing Machinery, New York, NY, USA, 1015–1018. https://doi.org/10.1145/2733373.2806390" 
 <br clear="left"/> <br>
@@ -30,11 +31,6 @@ By integrating the <i>aT-CWT</i> transformation, the multi-feature CNN model has
 
 - #### <ul>[Unsupervised anomalous sound detection for machine condition monitoring](https://github.com/DrStef/MIMII/blob/main/README.md)</ul>
 
-<ul><ul>
- <img src="https://github.com/DrStef/MIMII/blob/main/Beampattern_1000Hz.png"  align="right"  width="250px"/>
-  <br>
- <img src="https://github.com/DrStef/MIMII/blob/main/MIMII_Microphone_array.png"  align="right"  width="200px"/>
- <ul></ul>
 
 We developed an unsupervised classification model for detecting valve faults in industrial machinery using acoustic signals from an 8-microphone array, based on the MIMII dataset (CC BY-SA 4.0, Hitachi, Ltd., https://zenodo.org/records/3384388). <br>
 We introduced a novel ACSTFT transform, achieving an ROC AUC of 0.99 on the +6dB valve dataset, and trained a CNN-Autoencoder for robust anomaly detection. <br>
@@ -66,8 +62,14 @@ Rather than classifying various types of machines (pumps, fans, valves, sliders)
 <b> Applications </b>  <br>
 - <b> Rotating machinery </b> Failure Detection: bearings, motors,rotors.  <br>
 - <b> HVAC </b> Fault detection and diagnosis (FDD): pumps, compressors, valves.   
- 
 </ul></ul>
+
+<ul><ul>
+ <img src="https://github.com/DrStef/MIMII/blob/main/Beampattern_1000Hz.png"  align="right"  width="250px"/>
+  <br>
+ <img src="https://github.com/DrStef/MIMII/blob/main/MIMII_Microphone_array.png"  align="right"  width="200px"/>
+ <ul></ul>
+
 
 - #### <ul>[Machine Learning and Digital Signal Processing for Genome Classification (supervised)](https://github.com/DrStef/Machine-Learning-and-Digital-Signal-Processing-for-Genome-Classification/blob/main/README.md) </ul>
 <ul><ul>
