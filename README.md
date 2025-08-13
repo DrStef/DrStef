@@ -39,7 +39,7 @@ By denoising multi-channel signals with MVDR beamforming and a custom Generalize
  
  |<p align="center">   <img src="https://github.com/DrStef/MIMII-Unsupervised-classification-of-valve-sounds/blob/main/results/plot/acstft_magnitude_spectrograms_1p5s_July03_v08.png"  width="150"  />  </p>    |  <p align="center"> <img src="https://github.com/DrStef/MIMII-Unsupervised-classification-of-valve-sounds/blob/main/results/plot/id04_ModelACSTFT_seed42_RocAuc_v01.png" width="200"  /> </p> | <p align="center"> <img src= "https://github.com/DrStef/MIMII-Unsupervised-classification-of-valve-sounds/blob/main/results/plot/id04_ModelACSTFT_seed42_MSE_v01.png"  width="200" /></p>|
 | ---       | ---                          |   ---         |
- |<p align="center"> <sub><b> <i> ACSTFT Magnitude </i> </b> </sub>  </p>  |  <p align="center"> <sub><b><i> ROC-AUC Single Type Valve id_04  </i> </b> </sub>  </p>       |   <p align="center"> <sub><b><i> Reconstruction error (MSE)  </i></b> </sub>  </p> |
+ |<p align="center"> <sub><b> <i> ACSTFT Magnitude </i> </b> </sub>  </p>  |  <p align="center"> <sub><b><i> ROC-AUC= 0.99 <br> Single Type Valve id_04  </i> </b> </sub>  </p>       |   <p align="center"> <sub><b><i> Reconstruction error (MSE)  </i></b> </sub>  </p> |
 
 
 
