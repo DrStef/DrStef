@@ -36,15 +36,14 @@ We developed an unsupervised classification model for detecting valve faults in 
 We introduced a novel ACSTFT transform, achieving an ROC AUC of 0.99 on the +6dB valve dataset, and trained a CNN-Autoencoder for robust anomaly detection. <br>
 By denoising multi-channel signals with MVDR beamforming and a custom Generalized Sidelobe Canceler (GSC), the model transforms the array into a noise-robust "sensor." Focused on valves, it classifies single-microphone and denoised GSC outputs to identify defects, enhancing fault detection in noisy environments. View project
 
-<ul><ul> 
  
  |<p align="center">   <img src="https://github.com/DrStef/MIMII-Unsupervised-classification-of-valve-sounds/blob/main/results/plot/acstft_magnitude_spectrograms_1p5s_July03_v08.png"  width="150"  />  </p>    |  <p align="center"> <img src="https://github.com/DrStef/MIMII-Unsupervised-classification-of-valve-sounds/blob/main/results/plot/id04_ModelACSTFT_seed42_RocAuc_v01.png" width="200"  /> </p> | <p align="center"> <img src= "https://github.com/DrStef/Data-Visualization-with-Python/blob/main/Choropleth_can_immigration.png" width="200" /></p>|
 | ---       | ---                          |   ---         |
  |<p align="center"> <sub><b> <i> ACSTFT Magnitude </i> </b> </sub>  </p>  |  <p align="center"> <sub><b><i> ROC-AUC Single Type Valve id_04  </i> </b> </sub>  </p>       |   <p align="center"> <sub><b><i> Choropleth </i></b> </sub>  </p> |
 
- </ul></ul>
 
-<ul><ul> 
+
+
 [old] We develop an automatic unsupervised classification model or automatic diagnosis model for detecting failures or breakdowns of industrial machinery based on their acoustics characteristics, recorded with a 8-microphones circular array. 
        
 The model is based on the MIMII dataset made available by Hitachi, Ltd. under a Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license. <br>
