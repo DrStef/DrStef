@@ -31,7 +31,7 @@ By integrating the <i>aT-CWT</i> transformation, the multi-feature CNN model has
 
 - #### <ul>[Unsupervised anomalous sound detection for machine condition monitoring](https://github.com/DrStef/MIMII/blob/main/README.md)</ul>
 
-
+<ul><ul>
 We developed an unsupervised classification model for detecting valve faults in industrial machinery using acoustic signals from an 8-microphone array, based on the MIMII dataset (CC BY-SA 4.0, Hitachi, Ltd., https://zenodo.org/records/3384388). <br>
 We introduced a novel ACSTFT transform, achieving an ROC AUC of 0.99 on the +6dB valve dataset, and trained a CNN-Autoencoder for robust anomaly detection. <br>
 By denoising multi-channel signals with MVDR beamforming and a custom Generalized Sidelobe Canceler (GSC), the model transforms the array into a noise-robust "sensor." Focused on valves, it classifies single-microphone and denoised GSC outputs to identify defects, enhancing fault detection in noisy environments. View project
@@ -44,7 +44,7 @@ By denoising multi-channel signals with MVDR beamforming and a custom Generalize
 
  </ul></ul>
 
- 
+<ul><ul> 
 [old] We develop an automatic unsupervised classification model or automatic diagnosis model for detecting failures or breakdowns of industrial machinery based on their acoustics characteristics, recorded with a 8-microphones circular array. 
        
 The model is based on the MIMII dataset made available by Hitachi, Ltd. under a Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license. <br>
