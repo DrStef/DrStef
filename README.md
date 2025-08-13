@@ -64,11 +64,10 @@ Rather than classifying various types of machines (pumps, fans, valves, sliders)
 - <b> HVAC </b> Fault detection and diagnosis (FDD): pumps, compressors, valves.   
 </ul></ul>
 
-<ul><ul>
- <img src="https://github.com/DrStef/MIMII/blob/main/Beampattern_1000Hz.png"  align="right"  width="250px"/>
+<!--  <img src="https://github.com/DrStef/MIMII/blob/main/Beampattern_1000Hz.png"  align="right"  width="250px"/>
   <br>
- <img src="https://github.com/DrStef/MIMII/blob/main/MIMII_Microphone_array.png"  align="right"  width="200px"/>
- <ul></ul>
+ <img src="https://github.com/DrStef/MIMII/blob/main/MIMII_Microphone_array.png"  align="right"  width="200px"/>  -->
+
 
 </ul></ul>
 
