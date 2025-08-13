@@ -40,6 +40,13 @@ We developed an unsupervised classification model for detecting valve faults in 
 We introduced a novel ACSTFT transform, achieving an ROC AUC of 0.99 on the +6dB valve dataset, and trained a CNN-Autoencoder for robust anomaly detection. <br>
 By denoising multi-channel signals with MVDR beamforming and a custom Generalized Sidelobe Canceler (GSC), the model transforms the array into a noise-robust "sensor." Focused on valves, it classifies single-microphone and denoised GSC outputs to identify defects, enhancing fault detection in noisy environments. View project
 
+<ul><ul> 
+ 
+ |<p align="center">   <img src="https://github.com/DrStef/Data-Visualization-with-Python/blob/main/Canada_immigration_wordcloud.png"  width="150"  />                        </p>    |  <p align="center"> <img src="https://github.com/DrStef/Data-Visualization-with-Python/blob/main/Crime_SF_folium_v02.png" width="200"  /> </p> | <p align="center"> <img src= "https://github.com/DrStef/Data-Visualization-with-Python/blob/main/Choropleth_can_immigration.png" width="200" /></p>|
+| ---       | ---                          |   ---         |
+ |<p align="center"> <sub><b> <i> Word Cloud </i> </b> </sub>  </p>  |  <p align="center"> <sub><b><i> Folium with markers </i> </b> </sub>  </p>       |   <p align="center"> <sub><b><i> Choropleth </i></b> </sub>  </p> |
+
+ </ul></ul>
 
  
 [old] We develop an automatic unsupervised classification model or automatic diagnosis model for detecting failures or breakdowns of industrial machinery based on their acoustics characteristics, recorded with a 8-microphones circular array. 
