@@ -29,7 +29,7 @@ By integrating the <i>aT-CWT</i> transformation, the multi-feature CNN model has
 
 </ul></ul>
 
-- #### <ul>[Unsupervised Valve Fault Detection](https://github.com/DrStef/MIMII/blob/main/README.md)</ul>
+- #### <ul>[MIMII Datasets: Unsupervised Classification of Valve Sounds - Valve Fault Detection](https://github.com/DrStef/MIMII/blob/main/README.md)</ul>
 
 <ul><ul>
 This project develops an automatic unsupervised classification model to diagnose valve faults in industrial machinery using acoustic signals from an 8-microphone circular array, leveraging the MIMII dataset (CC BY-SA 4.0, Hitachi, Ltd., https://zenodo.org/records/3384388). <br> 
