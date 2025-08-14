@@ -34,7 +34,7 @@ By integrating the <i>aT-CWT</i> transformation, the multi-feature CNN model has
 <ul><ul>
 This project develops an automatic unsupervised classification model to diagnose valve faults in industrial machinery using acoustic signals from an 8-microphone circular array, leveraging the MIMII dataset (CC BY-SA 4.0, Hitachi, Ltd., https://zenodo.org/records/3384388). <br> 
  We introduced a novel ACSTFT transform, achieving an impressive ROC AUC of 0.99 on the +6dB valve dataset, and trained a CNN-Autoencoder for robust anomaly detection. <br>
-Unlike standard MIMII challenge approaches that classify noisy signals directly, we prioritize denoising using MVDR beamforming combined with a custom Generalized Sidelobe Canceler (GSC), transforming the array into a noise-robust “sensor.” <br>
+Unlike standard MIMII challenge approaches that classify noisy signals directly, we prioritize denoising using MVDR beamforming combined with a custom Generalized Sidelobe Canceler (GSC), transforming the array into a noise-robust “sensor.”<br>
 Focused exclusively on valves, this model enhances fault detection in challenging industrial environments, offering a practical solution for machinery monitoring. Explore the code, ROC curves, and spectrograms showcasing our results.
 <br><br>
  
