@@ -52,6 +52,17 @@ Focused exclusively on valves, this model enhances fault detection in challengin
 
 </ul></ul>
 
+
+- #### <ul>[DeltaNotes : A Curated Collection of Advanced Reasoning Challenges](https://github.com/DrStef/DeltaNotes)</ul>
+<ul><ul>
+This repository is a handpicked anthology of intricate mathematical and logical problems designed to probe the limits of AI reasoning capabilities. From differential equations and series convergence to probabilistic asymptotics and spectral inversions, each challenge demands multi-step deduction, symbolic manipulation, and creative insight—perfect for benchmarking LLMs like Grok or GPT. <br>
+Whether you're an AI researcher honing models or a math enthusiast seeking tough puzzles, DeltaNotes will offer 50+ problems with hints, solutions, and code snippets for verification. Under construction, problems are added on a weekly basis. <br>
+Explore, test, and contribute: Turn theory into AI stress-tests!  
+
+
+</ul></ul>
+<br>
+
 - #### <ul>[Machine Learning and Digital Signal Processing for Genome Classification (supervised)](https://github.com/DrStef/Machine-Learning-and-Digital-Signal-Processing-for-Genome-Classification/blob/main/README.md) </ul>
 <ul><ul>
 
