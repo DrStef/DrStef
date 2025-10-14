@@ -1,9 +1,11 @@
 
 ## **Machine Learning - Deep Learning Projects**
 
+### Advanced Projects in DSP & ML/DL
 
-###  **Advanced projects**
-This section contains Research and Development projects in Machine Learning and Deep Learning that require original developments. They call on our expertise in Digital Signal Processing, Optimization, Calculus, Linear Algebra. <br>
+This repository showcases cutting-edge R&D projects in **Digital Signal Processing (DSP)** and **Machine/Deep Learning (ML/DL)**, focusing on **noise reduction** and **custom signal transforms** (e.g., modified CWT/STFT) for detecting anomalies in acoustic and vibration signals. Drawing on expertise in optimization, calculus, and linear algebra, these developments enable real-time feature extraction for applications like environmental sound analysis and classification. They also support industrial sound monitoring, with potential extensions to rotating machinery failure detection (bearings, motors, rotors), HVAC fault detection and diagnosis (pumps, compressors, valves), and drilling telemetry monitoring.
+
+
 
 - #### <ul>[Deep Learning and Digital Signal Processing for Environmental Sound Classification (supervised)](https://github.com/DrStef/Deep-Learning-and-Digital-Signal-Processing-for-Environmental-Sound-Classification/blob/main/README.md) </ul>
 <ul><ul>
