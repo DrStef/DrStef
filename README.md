@@ -175,6 +175,29 @@ After cleaning the dataset, running statistics, identifying the most relevant va
 
  </ul></ul>
  
+<br>
+<br>
+
+
+## **I'm Dr. Stef (@DrStef)**
+
+Crafting DSP & ML/DL innovations that uncover hidden signals in noise, grounded in rigorous numerical analysis and real-world impact.
+
+Audio & Signal Processing scientist blending mathematical precision, custom transform design, and ML-driven anomaly detection to transform chaotic data into actionable insights for industrial and environmental applications.
+
+What drives me most in DSP/ML is the thrill of R&D: Distilling cutting-edge theory (NR gains, STFT, wavelets, synchrosqueezing) into tools that solve tough problems, like detecting valve faults or drilling vibrations before they escalate.
+
+⇒ Signal Analysis Rigor - Advanced time-frequency methods (CWT, STFT, Mel-Spectrograms) for non-stationary phenomena  
+⇒ Noise Reduction & Enhancement - Beamforming, VAD, and adaptive filters achieving >20 dB SNR gains in multi-sensor setups  
+⇒ Mathematical Foundations - Expertise in calculus, linear algebra, and optimization for feature extraction and model stability  
+⇒ ML/DL Innovation - CNN, CNN autoencoders and genetic algorithms for unsupervised anomaly detection in acoustics/vibrations  
+⇒ Industrial Applications - 25+ years in electroacoustics, computational mathematics, DSP, in Telecom & Consumer Electronics industries, Intelligent Building and Safety Industry. | PhD in Mech. Engineering: Numerical Analysis (BEM/FEM) and Optimization.
+
+I develop open-source pipelines that bridge numerical rigor with practical engineering, specializing in custom transforms for anomaly detection in noisy environments. From environmental sound classification to industrial valve diagnostics, my work advances real-time ML for telemetry and beyond.
+
+▶ Mission: Empowering engineers with math-backed DSP tools that turn signal chaos into predictive power—building the future of acoustic, vibrations, signals  intelligence, one transform at a time.
+
+
 
 <!--  - #### <ul> **Linear Algebra problems**   </ul>  --> 
 <br>
