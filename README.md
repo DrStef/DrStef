@@ -51,19 +51,7 @@ Focused exclusively on valves, this model enhances fault detection in challengin
  |<p align="center"> <sub> <i> Novel ACSTFT Transform <br> Top: 3x normal, bottom: 3x default </i> </sub>  </p>  |  <p align="center"> <sub><i> ROC-AUC= 0.99 <br> Valve Type id_04  </i>  </sub>  </p>       |   <p align="center"> <sub><i> Reconstruction error (MSE) <br> Valve type id_04  </i></sub>  </p> |  <p align="center"> <sub><i> MVDR beamforming <br> Beampattern 1000Hz  </i> </sub>  </p> |    <p align="center"> <sub><i> Denoised Valve Sound Signals <br> with VAD Decision  </i></sub>  </p> |    
 
 <br>
-
 </ul></ul>
-
-
-- #### <ul>[DeltaNotes: A Curated Collection of Advanced Reasoning Challenges for Testing LLMs Math Reasoning](https://github.com/DrStef/DeltaNotes)</ul>
-<ul><ul>
-This repository is a handpicked anthology of intricate mathematical and logical problems designed to probe the limits of AI reasoning capabilities. From differential equations and series convergence to probabilistic asymptotics and spectral inversions, each challenge demands multi-step deduction, symbolic manipulation, and creative insight—perfect for benchmarking LLMs like Grok or GPT. <br>
-Whether you're an AI researcher honing models or a math enthusiast seeking tough puzzles, DeltaNotes will offer 50+ problems with hints, solutions, and code snippets for verification. Under construction, problems are added on a weekly basis. <br>
-Explore, test, and contribute: Turn theory into AI stress-tests!  
-
-
-</ul></ul>
-<br>
 
 - #### <ul>[Machine Learning and Digital Signal Processing for Genome Classification (supervised)](https://github.com/DrStef/Machine-Learning-and-Digital-Signal-Processing-for-Genome-Classification/blob/main/README.md) </ul>
 <ul><ul>
@@ -78,6 +66,13 @@ In this project, we are developing effective methods for classifying mitochondri
 The alignment-free DNA sequence classification approach: <i>ML-DSP</i>, proposed by Gurjit S. Randhawa has proven to be very effective. <br>  By introducing a simple alignment technique alongside short Fast Fourier Transforms (FFTs), termed <i>ML-FFT + SoftAlign</i>, we have surpassed the performance of <i>ML-DSP</i>, particularly with challenging datasets such as those from Fungi and Insects.
 
  </ul></ul>
+ <br>
+
+ - #### <ul>[DeltaNotes: A Curated Collection of Advanced Reasoning Challenges for Testing LLMs Math Reasoning](https://github.com/DrStef/DeltaNotes)</ul>
+<ul><ul>
+This repository is a handpicked anthology of intricate mathematical and logical problems designed to probe the limits of AI reasoning capabilities. From differential equations and series convergence to probabilistic asymptotics and spectral inversions, each challenge demands multi-step deduction, symbolic manipulation, and creative insight—perfect for benchmarking LLMs like Grok or GPT. <br>
+Whether you're an AI researcher honing models or a math enthusiast seeking tough puzzles, DeltaNotes will offer 50+ problems with hints, solutions, and code snippets for verification. Under construction, problems are added on a weekly basis. <br>
+Explore, test, and contribute: Turn theory into AI stress-tests! 
 
 - #### <ul>Deep Learning and Digital Signal Processing: Voice Activity Detection (VAD)</ul>
 
