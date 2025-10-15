@@ -73,7 +73,9 @@ The alignment-free DNA sequence classification approach: <i>ML-DSP</i>, proposed
 This repository is a handpicked anthology of intricate mathematical and logical problems designed to probe the limits of AI reasoning capabilities. From differential equations and series convergence to probabilistic asymptotics and spectral inversions, each challenge demands multi-step deduction, symbolic manipulation, and creative insight—perfect for benchmarking LLMs like Grok or GPT. <br>
 Whether you're an AI researcher honing models or a math enthusiast seeking tough puzzles, DeltaNotes will offer 50+ problems with hints, solutions, and code snippets for verification. Under construction, problems are added on a weekly basis. <br>
 Explore, test, and contribute: Turn theory into AI stress-tests! 
-
+ </ul></ul>
+ <br>
+ 
 - #### <ul>Deep Learning and Digital Signal Processing: Voice Activity Detection (VAD)</ul>
 
 - #### <ul>Machine Learning and Digital Signal Processing: Sound Source Localization (SSL)</ul>
