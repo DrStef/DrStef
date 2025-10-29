@@ -9,11 +9,6 @@ This repository showcases cutting-edge R&D projects in **Digital Signal Processi
 
 - #### <ul>[Deep Learning and Digital Signal Processing for Environmental Sound Classification (supervised)](https://github.com/DrStef/Deep-Learning-and-Digital-Signal-Processing-for-Environmental-Sound-Classification/blob/main/README.md) </ul>
 <ul><ul>
- <img src="https://github.com/DrStef/Deep-Learning-and-Digital-Signal-Processing-for-Environmental-Sound-Classification/blob/main/esc10_sound_classification/docs/figures/esc10_v23_100pc.png"  align="right"  width="200px"/>
- <br>
- <img src="https://github.com/DrStef/Deep-Learning-and-Digital-Signal-Processing-for-Environmental-Sound-Classification/blob/main/esc10_sound_classification/docs/figures/MelSpectrogram.png"  align="right"  width="200px"/>
- <ul></ul>
-
 
 Automatic Environmental Sound Classification (ESC) leverages the ESC-50 dataset (and its ESC-10 subset) developed by Karol Piczak, as detailed in his paper titled: 
 <b><i> "ESC: Dataset for Environmental Sound Classification." </i></b> by Karol J. Piczak. 2015. In Proceedings of the 23rd ACM international conference on Multimedia (MM '15). Association for Computing Machinery, New York, NY, USA, 1015–1018. https://doi.org/10.1145/2733373.2806390" 
@@ -28,6 +23,10 @@ Resolution of Remaining Classification Challenges:
 
 A notable challenge in ESC-10 sound classification was the confusion between "sea waves" and "rain" sounds. This issue was addressed by developing an original transformation of the complex CWT, termed <i>aT-CWT</i>. This transformation replaces the phase component of the CWT for stationary and pseudo-stationary sounds with a Gaussian distribution, enhancing the model's ability to differentiate between similar sounding environmental events. <br>
 By integrating the <i>aT-CWT</i> transformation, the multi-feature CNN model has now achieved 100% accuracy in classifying environmental sounds from the ESC-10 dataset. 
+<br>
+|<p align="center"><img src="https://github.com/DrStef/Deep-Learning-and-Digital-Signal-Processing-for-Environmental-Sound-Classification/blob/main/esc10_sound_classification/docs/figures/at_CWT_seawave116.png" align="right" width="200px"/></p> | <p align="center"><img src="https://github.com/DrStef/Deep-Learning-and-Digital-Signal-Processing-for-Environmental-Sound-Classification/blob/main/esc10_sound_classification/docs/figures/at_CWT_rain48.png"   align="right"  width="200px"/></p> | <p align="center"><img src="https://github.com/DrStef/Deep-Learning-and-Digital-Signal-Processing-for-Environmental-Sound-Classification/blob/main/esc10_sound_classification/docs/figures/esc10_v23_100pc.png"  align="right"  width="200px"/></p> |
+|:------:|:------:|:------:|
+| <p align="center"> <sub> <i> aT-CWT transform: "seawave" </i> </sub> </p>|  <p align="center"> <sub> <i> aT-CWT transform: "seawave" </i> </sub> </p>| <p align="center"> <sub> <i> Confusion Matrix with aT-CWT </i> </sub> </p>|
 
 </ul></ul>
 
