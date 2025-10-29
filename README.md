@@ -31,6 +31,22 @@ By integrating the <i>aT-CWT</i> transformation, the multi-feature CNN model has
 
 </ul></ul>
 
+- #### <ul>[Bearing Fault Early Detection with Custom DSP Features](https://github.com/DrStef/Bearing-Fault-Early-Detection-with-Custom-DSP-Features/blob/main/README.md)</ul>
+
+<ul><ul>
+ 
+A scalable pipeline for predictive maintenance in rotating machinery, using time-domain features (RMS, kurtosis) and optimized Kalman denoising on NASA PRONOSTIA datasets to detect faults ~2 minutes early (frame 600). Extends to:
+LSTM/Prophet for anomaly forecasting and <br>
+CWT/aT-CWT for phase-coherent scalograms, achieving >95% accuracy on high-harmonic preservation (236-980 Hz BPFO). 
+
+<b> Applications </b>  <br>
+- <b> Rotating machinery </b> Failure Detection: bearings, motors,rotors.  <br>
+- <b> Oil & Gas drilling </b> for real-time telemetry.
+
+<br>
+</ul></ul>
+
+
 - #### <ul>[MIMII Datasets: Unsupervised Classification of Valve Sounds - Valve Fault Detection](https://github.com/DrStef/MIMII/blob/main/README.md)</ul>
 
 <ul><ul>
