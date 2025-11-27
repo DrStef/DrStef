@@ -34,9 +34,10 @@ By integrating the <i>aT-CWT</i> transformation, the multi-feature CNN model has
 
 <ul><ul>
  
-A scalable pipeline for predictive maintenance in rotating machinery, using time-domain features (RMS, kurtosis) and optimized Kalman denoising on NASA PRONOSTIA datasets to detect faults ~2 minutes early (frame 600). Extends to:
+A scalable pipeline for predictive maintenance in rotating machinery, using time-domain features (RMS, kurtosis) and optimized Kalman denoising on The NASA Bearing Dataset to detect faults early. Dataset, failure of Bearing 1 (frame 530-540). 
+Extends to:
 LSTM/Prophet for anomaly forecasting and <br>
-CWT/aT-CWT for phase-coherent scalograms, achieving >95% accuracy on high-harmonic preservation (236-980 Hz BPFO). 
+Complex STFT,CWT for phase-coherent scalograms, achieving >95% accuracy.  
 
 <b> Applications </b>  <br>
 - <b> Rotating machinery </b> Failure Detection: bearings, motors,rotors.  <br>
