@@ -30,7 +30,7 @@ By integrating the <i>aT-CWT</i> transformation, the multi-feature CNN model has
 
 </ul></ul>
 
-- #### <ul>[Bearing Fault Early Detection with Custom DSP Features](https://github.com/DrStef/Bearing-Fault-Early-Detection-with-Custom-DSP-Features/blob/main/README.md)</ul>
+- #### <ul>[Bearing Fault Early Detection with Custom DSP Features](https://github.com/DrStef/Bearing-Fault-Early-Detection-with-Custom-DSP-Features_v01/blob/main/README.md)</ul>
 
 <ul><ul>
  
