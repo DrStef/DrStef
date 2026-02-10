@@ -29,7 +29,6 @@ All code and precomputed data (.npy tensors) are open-source and reproducible. F
 - Rotating machinery (bearings, gearboxes, motors, pumps, rotors)  
 - Oil & Gas drilling telemetry (mud motors, top-drive, drill-string vibration)  
 - Wind-turbine drivetrains  
-- High-speed railway wheelsets  
 - Any system where catching a fault days instead of minutes ahead saves millions
 <br>
 
