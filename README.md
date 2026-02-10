@@ -35,7 +35,10 @@ All code and precomputed data (.npy tensors) are open-source and reproducible. F
 </ul></ul>
 
 
-
+<br>
+|<p align="center"><img src="https://github.com/DrStef/Deep-Learning-and-Digital-Signal-Processing-for-Environmental-Sound-Classification/blob/main/esc10_sound_classification/docs/figures/at_CWT_seawave116.png" align="right" width="200px"/></p> | <p align="center"><img src="https://github.com/DrStef/Deep-Learning-and-Digital-Signal-Processing-for-Environmental-Sound-Classification/blob/main/esc10_sound_classification/docs/figures/at_CWT_rain48.png"   align="right"  width="200px"/></p> | <p align="center"><img src="https://github.com/DrStef/Deep-Learning-and-Digital-Signal-Processing-for-Environmental-Sound-Classification/blob/main/esc10_sound_classification/docs/figures/esc10_v23_100pc.png"  align="right"  width="300px"/></p> |
+|:------:|:------:|:------:|
+| <p align="center"> <sub> <i> aT-CWT transform: "seawave" </i> </sub> </p>|  <p align="center"> <sub> <i> aT-CWT transform: "rain" </i> </sub> </p>| <p align="center"> <sub> <i> Confusion Matrix with aT-CWT </i> </sub> </p>|
 
 
 
