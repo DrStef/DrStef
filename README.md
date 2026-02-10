@@ -5,6 +5,40 @@
 
 This repository showcases cutting-edge R&D projects in **Digital Signal Processing (DSP)** and **Machine/Deep Learning (ML/DL)**, focusing on **noise reduction** and **custom signal transforms** (e.g., modified CWT/STFT) for detecting anomalies in acoustic and vibration signals. Drawing on expertise in optimization, calculus, and linear algebra, these developments enable real-time feature extraction for applications like environmental sound analysis and classification. They also support industrial sound monitoring, with potential extensions to rotating machinery failure detection (bearings, motors, rotors), HVAC fault detection and diagnosis (pumps, compressors, valves), and drilling telemetry monitoring.
 
+- #### <ul>[Bearing Fault Early Detection with Custom DSP Features](https://github.com/DrStef/Bearing-Fault-Early-Detection-with-Custom-DSP-Features_v01/blob/main/README.md)</ul>
+
+<ul><ul>
+
+A collection of high-performance pipelines for **early fault detection** in rotating equipment, validated on the NASA Prognostics Dataset (20 kHz, 984 frames, Bearing 1 failure ~frame 530–540).
+
+#### What we actually achieve
+Classical time-domain indicators (RMS, kurtosis, crest factor) only react around frames **520–540**.  
+Our methods detect the **very first fault signatures** as early as **frames 450–470** — a consistent pre-alarm **60–90 frames** (~1–1.5 minutes) ahead, with robust and repeatable results.
+
+**Part I** – Initial Research  
+Time-series analysis, spectral insights (FFT), Wiener denoising, LSTM on STD/kurtosis sequences.
+
+**Part II** – CNN Autoencoder with bTSTFT  
+Precomputed custom bTSTFT transforms (magnitude + phase) on Wiener-denoised surframes (5-frame sliding window) + CNN autoencoder. Reconstruction error (MSE) + CUSUM deliver consistent early detection below frame 450, significantly outperforming traditional metrics.
+
+Note: The pipeline requires significant compute resources (no real-time edge deployment; runs comfortably on modern laptops/servers with GPU acceleration).
+
+All code and precomputed data (.npy tensors) are open-source and reproducible. For details on the custom bTSTFT method, contact me.
+
+#### Applications
+- Rotating machinery (bearings, gearboxes, motors, pumps, rotors)  
+- Oil & Gas drilling telemetry (mud motors, top-drive, drill-string vibration)  
+- Wind-turbine drivetrains  
+- High-speed railway wheelsets  
+- Any system where catching a fault days instead of minutes ahead saves millions
+<br>
+</ul></ul>
+
+
+
+
+
+
 
 
 - #### <ul>[Deep Learning and Digital Signal Processing for Environmental Sound Classification (supervised)](https://github.com/DrStef/Deep-Learning-and-Digital-Signal-Processing-for-Environmental-Sound-Classification/blob/main/README.md) </ul>
@@ -30,27 +64,18 @@ By integrating the <i>aT-CWT</i> transformation, the multi-feature CNN model has
 
 </ul></ul>
 
-- #### <ul>[Bearing Fault Early Detection with Custom DSP Features](https://github.com/DrStef/Bearing-Fault-Early-Detection-with-Custom-DSP-Features_v01/blob/main/README.md)</ul>
 
-<ul><ul>
 
-A collection of high-performance, open-source pipelines pushing the limits of **early fault detection** in rotating equipment, validated on the famous NASA Prognostics Dataset (20 kHz, 984 files, Bearing 1 failure ~ frame 530–540).
 
-##### What we actually achieve
-While classical time-domain indicators (RMS, kurtosis, crest factor) only react **around frames 520–540**, our custom **time-frequency methods** (complex STFT +  magnitude/phase superframes 256×256×2) reliably reveal the **very first fault signatures as early as frames 460–480** — sometimes **hours to days before** traditional features.
 
-All pipelines are lightweight, fully reproducible, > 95 % detection accuracy, and designed to run in real-time on edge devices.
 
-##### Applications
-- Rotating machinery (bearings, gearboxes, motors, pumps, rotors)  
-- Oil & Gas drilling telemetry (mud motors, top-drive, drill-string vibration)  
-- Wind-turbine drivetrains  
-- High-speed railway wheelsets  
-- Any system where catching a fault days instead of minutes ahead saves millions
 
-<br>
 
-</ul></ul>
+
+
+
+
+
 
 
 - #### <ul>[MIMII Datasets: Unsupervised Classification of Valve Sounds - Valve Fault Detection](https://github.com/DrStef/MIMII/blob/main/README.md)</ul>
