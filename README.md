@@ -37,7 +37,30 @@ All code and precomputed data (.npy tensors) are open-source and reproducible. F
 |:------:|:------:|:------:|
 | <p align="center"> <sub> <i> Magnitude FFT - Frame 540 early degradation <br> Raw v. Wiener denoised </i> </sub> </p>|  <p align="center"> <sub> <i> btstft transform Mag + Phase - Frame 510</i> </sub> </p>| <p align="center"> <sub> <i> Cusum on Test mse  (triggers alarm at frame 448)  </i> </sub> </p>|
 
+</ul></ul>
 
+<br>
+
+- #### <ul>[MIMII Datasets: Unsupervised Classification of Valve Sounds - Valve Fault Detection](https://github.com/DrStef/MIMII/blob/main/README.md)</ul>
+
+<ul><ul>
+This project develops an automatic unsupervised classification model to diagnose valve faults in industrial machinery using acoustic signals from an 8-microphone circular array, leveraging the MIMII dataset (CC BY-SA 4.0, Hitachi, Ltd., https://zenodo.org/records/3384388). <br> 
+ We introduced a novel ACSTFT transform, achieving an impressive ROC AUC of 0.99 on the +6dB valve dataset, and trained a CNN-Autoencoder for robust anomaly detection. <br>
+Unlike standard MIMII challenge approaches that classify noisy signals directly, we prioritize denoising using MVDR beamforming combined with a custom Generalized Sidelobe Canceler (GSC), transforming the array into a noise-robust “sensor.”<br>
+Focused exclusively on valves, this model enhances fault detection in challenging industrial environments, offering a practical solution for machinery monitoring. Explore the code, ROC curves, and spectrograms showcasing our results.
+<br><br>
+ 
+<b> Applications </b>  <br>
+- <b> Rotating machinery </b> Failure Detection: bearings, motors,rotors.  <br>
+- <b> HVAC </b> Fault detection and diagnosis (FDD): pumps, compressors, valves.
+
+<br>
+
+ |<p align="center">   <img src="https://github.com/DrStef/MIMII-Unsupervised-classification-of-valve-sounds/blob/main/results/plot/acstft_magnitude_spectrograms_1p5s_July03_v08.png"  width="165"  />  </p>    |  <p align="center"> <img src="https://github.com/DrStef/MIMII-Unsupervised-classification-of-valve-sounds/blob/main/results/plot/id04_ModelACSTFT_seed42_RocAuc_v01.png" width="150"  /> </p> | <p align="center"> <img src= "https://github.com/DrStef/MIMII-Unsupervised-classification-of-valve-sounds/blob/main/results/plot/id04_ModelACSTFT_seed42_MSE_v01.png"  width="175" /></p>|  <p align="center"> <img src= "https://github.com/DrStef/MIMII-Unsupervised-classification-of-valve-sounds/blob/main/results/plot/8micsArray_mvdr_1000Hz.png"  width="150" /></p>               |  <p align="center"> <img src= "https://github.com/DrStef/MIMII-Unsupervised-classification-of-valve-sounds/blob/main/results/plot/NR_10sClip_mvdr_em_vad_2s.png"  width="125" /></p>         |
+|:------:|:------:|:------:|:------:|:------:|       
+ |<p align="center"> <sub> <i> Novel ACSTFT Transform <br> Top: 3x normal, bottom: 3x default </i> </sub>  </p>  |  <p align="center"> <sub><i> ROC-AUC= 0.99 <br> Valve Type id_04  </i>  </sub>  </p>       |   <p align="center"> <sub><i> Reconstruction error (MSE) <br> Valve type id_04  </i></sub>  </p> |  <p align="center"> <sub><i> MVDR beamforming <br> Beampattern 1000Hz  </i> </sub>  </p> |    <p align="center"> <sub><i> Denoised Valve Sound Signals <br> with VAD Decision  </i></sub>  </p> |    
+
+<br>
 </ul></ul>
 
 
@@ -70,35 +93,6 @@ By integrating the <i>aT-CWT</i> transformation, the multi-feature CNN model has
 
 
 
-
-
-
-
-
-
-
-
-- #### <ul>[MIMII Datasets: Unsupervised Classification of Valve Sounds - Valve Fault Detection](https://github.com/DrStef/MIMII/blob/main/README.md)</ul>
-
-<ul><ul>
-This project develops an automatic unsupervised classification model to diagnose valve faults in industrial machinery using acoustic signals from an 8-microphone circular array, leveraging the MIMII dataset (CC BY-SA 4.0, Hitachi, Ltd., https://zenodo.org/records/3384388). <br> 
- We introduced a novel ACSTFT transform, achieving an impressive ROC AUC of 0.99 on the +6dB valve dataset, and trained a CNN-Autoencoder for robust anomaly detection. <br>
-Unlike standard MIMII challenge approaches that classify noisy signals directly, we prioritize denoising using MVDR beamforming combined with a custom Generalized Sidelobe Canceler (GSC), transforming the array into a noise-robust “sensor.”<br>
-Focused exclusively on valves, this model enhances fault detection in challenging industrial environments, offering a practical solution for machinery monitoring. Explore the code, ROC curves, and spectrograms showcasing our results.
-<br><br>
- 
-<b> Applications </b>  <br>
-- <b> Rotating machinery </b> Failure Detection: bearings, motors,rotors.  <br>
-- <b> HVAC </b> Fault detection and diagnosis (FDD): pumps, compressors, valves.
-
-<br>
-
- |<p align="center">   <img src="https://github.com/DrStef/MIMII-Unsupervised-classification-of-valve-sounds/blob/main/results/plot/acstft_magnitude_spectrograms_1p5s_July03_v08.png"  width="165"  />  </p>    |  <p align="center"> <img src="https://github.com/DrStef/MIMII-Unsupervised-classification-of-valve-sounds/blob/main/results/plot/id04_ModelACSTFT_seed42_RocAuc_v01.png" width="150"  /> </p> | <p align="center"> <img src= "https://github.com/DrStef/MIMII-Unsupervised-classification-of-valve-sounds/blob/main/results/plot/id04_ModelACSTFT_seed42_MSE_v01.png"  width="175" /></p>|  <p align="center"> <img src= "https://github.com/DrStef/MIMII-Unsupervised-classification-of-valve-sounds/blob/main/results/plot/8micsArray_mvdr_1000Hz.png"  width="150" /></p>               |  <p align="center"> <img src= "https://github.com/DrStef/MIMII-Unsupervised-classification-of-valve-sounds/blob/main/results/plot/NR_10sClip_mvdr_em_vad_2s.png"  width="125" /></p>         |
-|:------:|:------:|:------:|:------:|:------:|       
- |<p align="center"> <sub> <i> Novel ACSTFT Transform <br> Top: 3x normal, bottom: 3x default </i> </sub>  </p>  |  <p align="center"> <sub><i> ROC-AUC= 0.99 <br> Valve Type id_04  </i>  </sub>  </p>       |   <p align="center"> <sub><i> Reconstruction error (MSE) <br> Valve type id_04  </i></sub>  </p> |  <p align="center"> <sub><i> MVDR beamforming <br> Beampattern 1000Hz  </i> </sub>  </p> |    <p align="center"> <sub><i> Denoised Valve Sound Signals <br> with VAD Decision  </i></sub>  </p> |    
-
-<br>
-</ul></ul>
 
 - #### <ul>[Machine Learning and Digital Signal Processing for Genome Classification (supervised)](https://github.com/DrStef/Machine-Learning-and-Digital-Signal-Processing-for-Genome-Classification/blob/main/README.md) </ul>
 <ul><ul>
