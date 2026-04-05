@@ -70,8 +70,8 @@ Focused exclusively on valves, this model enhances fault detection in challengin
 This project implements a high-performance hybrid denoising system designed to isolate human speech from extreme non-stationary backgrounds, such as helicopter rotors and sea waves.  Leveraging a Residual U-Net architecture (v06d) with 512 filters at the bottleneck, we move beyond simple magnitude masking by predicting Real/Imaginary complex masks (clamped at $K=5.0$) to ensure perfect phase coherence and spectral restoration. <br>
 Key innovations include a Dual-Domain analysis (Short-Time Fourier Transform & Continuous Wavelet Transform) and an Advanced DSP injection layer: we re-introduce 15% of the full-band mixture using a Kaiser window ($\beta=3.0$) to restore medium-high-frequency transients. <br>
 The result is a robust, CPU-efficient "surgical" denoiser that eliminates mechanical clatter while maintaining the delicate formants of the human voice (1kHz - 3kHz), offering a professional-grade solution for challenging field recordings.
-
 <br>
+
 #### Applications
 - Telecommunications: Enhanced front-end for VoIP and radio systems in industrial or outdoor settings. <br>
 - Forensic Audio:  </b>  Voice extraction from surveillance or emergency recordings with non-stationary interference.
