@@ -75,7 +75,7 @@ Focused exclusively on valves, this model enhances fault detection in challengin
 
 - Vocal restoration in high-noise environments (Helicopters, Marine, Field recordings). <br> 
 - Residual U-Net (v06d): 5-level deep architecture with 512 filters at the bottleneck.Complex Masking: Predicts Real/Imaginary masks (clamped at $K=5.0$) to maintain phase coherence and restore critical formants (1kHz - 3kHz). <br> 
-- Hybrid Injection: A 15% blend of the original mixture using a Kaiser window ($\beta=3.0$) to restore natural warmth (< 600 Hz).
+- Hybrid Injection: A 15% blend of the original mixture to restore natural "warmth".
 
 <br>
 
