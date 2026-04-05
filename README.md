@@ -64,18 +64,37 @@ Focused exclusively on valves, this model enhances fault detection in challengin
 </ul></ul>
 
 
-- #### <ul>[Advanced Speech Denoising with Complex Masks in STFT & CWT](https://github.com/DrStef/stft-cwt-complex-mask-denoising/blob/main/README.md) </ul>
+- #### <ul>[Advanced Speech & Industrial Denoising: Complex Masks in STFT and CWT](https://github.com/DrStef/stft-cwt-complex-mask-denoising/blob/main/README.md) </ul>
 <ul><ul>
 
-This project implements a high-performance hybrid denoising system designed to isolate human speech from extreme non-stationary backgrounds, such as helicopter rotors and sea waves.  Leveraging a Residual U-Net architecture (v06d) with 512 filters at the bottleneck, we move beyond simple magnitude masking by predicting Real/Imaginary complex masks (clamped at $K=5.0$) to ensure perfect phase coherence and spectral restoration. <br>
-Key innovations include a Dual-Domain analysis (Short-Time Fourier Transform & Continuous Wavelet Transform) and an Advanced DSP injection layer: we re-introduce 15% of the full-band mixture using a Kaiser window ($\beta=3.0$) to restore medium-high-frequency transients. <br>
-The result is a robust, CPU-efficient "surgical" denoiser that eliminates mechanical clatter while maintaining the delicate formants of the human voice (1kHz - 3kHz), offering a professional-grade solution for challenging field recordings.
+🎙️⚙️This repository implements a Hybrid Denoising Framework designed to isolate signals from extreme non-stationary backgrounds. <br>
+ It explores the synergy between Deep Learning (Residual U-Net) and advanced Spectral Analysis.🚀 Key Innovations & Dual-Domain StrategyThe project is built on a specialized dual-path approach, selecting the optimal transform based on the nature of the noise:
+<br> 
+1. STFT Path (Optimized for Speech & Communication)Target:
+<br>
+
+- Vocal restoration in high-noise environments (Helicopters, Marine, Field recordings). <br> 
+- Residual U-Net (v06d): 5-level deep architecture with 512 filters at the bottleneck.Complex Masking: Predicts Real/Imaginary masks (clamped at $K=5.0$) to maintain phase coherence and restore critical formants (1kHz - 3kHz). <br> 
+- Hybrid Injection: A 15% blend of the original mixture using a Kaiser window ($\beta=3.0$) to restore natural warmth (< 600 Hz).
+
+<br>
+
+2. CWT Path: A Paradigm Shift in Wavelet Denoising:
+
+<br>
+
+- Beyond Thresholding: Unlike traditional Wavelet denoising methods based on hard/soft thresholding (which often lose phase information and introduce artifacts), this project implements Complex Masking directly in the CWT domain.
+- Phase-Preserving Reconstruction: By predicting Real/Imaginary masks on the CWT coefficients, we maintain the integrity of the signal's wavefront—a critical factor for high-fidelity industrial diagnostics.
+- Target: Why CWT? Unlike the STFT, the Continuous Wavelet Transform provides superior time-resolution for high-frequency transients, making it the ideal tool for Machine Health Monitoring and impulsive fault detection. Industrial Impulses: While our benchmarks are validated on speech for intelligibility metrics, the CWT-UNet path is specifically engineered for Industrial Noise & Transient Impacts (shocks, clicks, mechanical fatigue signatures).
+- Computational Trade-off: The high resolution of the CWT makes it the "Surgical" option for mechanical monitoring, where precision in the time-frequency plane outweighs the computational cost. While computationally intensive, the CWT path is dedicated to high-stakes industrial diagnostics where STFT-based models fail to capture the "sharpness" of mechanical impacts.
+
 <br>
 
 #### Applications
 - Telecommunications: Enhanced front-end for VoIP and radio systems in industrial or outdoor settings. <br>
 - Forensic Audio:  </b>  Voice extraction from surveillance or emergency recordings with non-stationary interference.
-- Aviation & Marine: </b>  Cockpit and deck communication recovery in high-noise environments.  
+- Aviation & Marine: </b>  Cockpit and deck communication recovery in high-noise environments.
+- the CWT-UNet path is specifically engineered for Industrial Noise & Transient Impacts (shocks, clicks, mechanical fatigue signatures). 
 
 <br>
 </ul></ul>
