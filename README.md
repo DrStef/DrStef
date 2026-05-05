@@ -44,6 +44,7 @@ All code and precomputed data (.npy tensors) are open-source and reproducible. F
 - #### <ul>[MIMII Datasets: Unsupervised Classification of Valve Sounds - Valve Fault Detection](https://github.com/DrStef/MIMII/blob/main/README.md)</ul>
 
 <ul><ul>
+ 
 This project develops an automatic unsupervised classification model to diagnose valve faults in industrial machinery using acoustic signals from an 8-microphone circular array, leveraging the MIMII dataset (CC BY-SA 4.0, Hitachi, Ltd., https://zenodo.org/records/3384388). <br> 
  We introduced a novel ACSTFT transform, achieving an impressive ROC AUC of 0.99 on the +6dB valve dataset, and trained a CNN-Autoencoder for robust anomaly detection. <br>
 Unlike standard MIMII challenge approaches that classify noisy signals directly, we prioritize denoising using MVDR beamforming combined with a custom Generalized Sidelobe Canceler (GSC), transforming the array into a noise-robust “sensor.”<br>
@@ -60,45 +61,31 @@ Focused exclusively on valves, this model enhances fault detection in challengin
 |:------:|:------:|:------:|:------:|:------:|       
  |<p align="center"> <sub> <i> Novel ACSTFT Transform <br> Top: 3x normal, bottom: 3x default </i> </sub>  </p>  |  <p align="center"> <sub><i> ROC-AUC= 0.99 <br> Valve Type id_04  </i>  </sub>  </p>       |   <p align="center"> <sub><i> Reconstruction error (MSE) <br> Valve type id_04  </i></sub>  </p> |  <p align="center"> <sub><i> MVDR beamforming <br> Beampattern 1000Hz  </i> </sub>  </p> |    <p align="center"> <sub><i> Denoised Valve Sound Signals <br> with VAD Decision  </i></sub>  </p> |    
 
-<br>
-</ul></ul>
+ </ul></ul>
+ <br>
 
+- #### <ul>[Advanced Speech Denoising: Complex Masks in STFT (with future CWT extension)](https://github.com/DrStef/stft-cwt-complex-mask-denoising)</ul>
 
-- #### <ul>[Advanced Speech & Industrial Denoising: Complex Masks in STFT and CWT](https://github.com/DrStef/stft-cwt-complex-mask-denoising/blob/main/README.md) </ul>
 <ul><ul>
 
-🎙️⚙️This repository implements a Hybrid Denoising Framework designed to isolate signals from extreme non-stationary backgrounds. <br>
- It explores the synergy between Deep Learning (Residual U-Net) and advanced Spectral Analysis.🚀 Key Innovations & Dual-Domain StrategyThe project is built on a specialized dual-path approach, selecting the optimal transform based on the nature of the noise:
-<br> 
-1. STFT Path (Optimized for Speech & Communication)Target:
-<br>
+This repository implements **phase-aware complex ratio masking** (cIRM) for high-fidelity speech denoising using the Short-Time Fourier Transform (STFT).
 
-- Vocal restoration in high-noise environments (Helicopters, Marine, Field recordings). <br> 
-- Residual U-Net (v06d): 5-level deep architecture with 512 filters at the bottleneck.Complex Masking: Predicts Real/Imaginary masks (clamped at $K=5.0$) to maintain phase coherence and restore critical formants (1kHz - 3kHz). <br> 
-- Hybrid Injection: A 15% blend of the original mixture to restore natural "warmth".
+**Current Focus (v07r)**  
+- Lightweight **SimpleUNet** architecture  
+- Frequency-dependent clamping strategy ("Dog Bone" / Banana profile), inspired by the Speech Banana in audiology  
+- Strong emphasis on phase consistency to reduce hoarseness and musical noise  
+- Training on LibriSpeech + stationary/pseudo-stationary noises from ESC-50 (rain, wind, engines, helicopter, etc.)  
+- Achieved solid noise reduction while preserving natural speech quality, including on female voices
 
-<br>
+**Future Direction**  
+Extension to **Continuous Wavelet Transform (CWT)** for improved handling of non-stationary and impulsive industrial noises (machine diagnostics, transient events, etc.).
 
-2. CWT Path: A Paradigm Shift in Wavelet Denoising:
+**Objectives**  
+Develop efficient, reproducible denoising models suitable for real-world applications (communications in noisy environments, hearing assistance, industrial monitoring).
 
-<br>
-
-- Beyond Thresholding: Unlike traditional Wavelet denoising methods based on hard/soft thresholding (which often lose phase information and introduce artifacts), this project implements Complex Masking directly in the CWT domain.
-- Phase-Preserving Reconstruction: By predicting Real/Imaginary masks on the CWT coefficients, we maintain the integrity of the signal's wavefront—a critical factor for high-fidelity industrial diagnostics.
-- Target: Why CWT? Unlike the STFT, the Continuous Wavelet Transform provides superior time-resolution for high-frequency transients, making it the ideal tool for Machine Health Monitoring and impulsive fault detection. Industrial Impulses: While our benchmarks are validated on speech for intelligibility metrics, the CWT-UNet path is specifically engineered for Industrial Noise & Transient Impacts (shocks, clicks, mechanical fatigue signatures).
-- Computational Trade-off: The high resolution of the CWT makes it the "Surgical" option for mechanical monitoring, where precision in the time-frequency plane outweighs the computational cost. While computationally intensive, the CWT path is dedicated to high-stakes industrial diagnostics where STFT-based models fail to capture the "sharpness" of mechanical impacts.
-
-<br>
-
-#### Applications
-- Telecommunications: Enhanced front-end for VoIP and radio systems in industrial or outdoor settings. <br>
-- Forensic Audio:  </b>  Voice extraction from surveillance or emergency recordings with non-stationary interference.
-- Aviation & Marine: </b>  Cockpit and deck communication recovery in high-noise environments.
-- the CWT-UNet path is specifically engineered for Industrial Noise & Transient Impacts (shocks, clicks, mechanical fatigue signatures). 
-
-<br>
-</ul></ul>
-
+ </ul></ul>
+ <br>
+ 
 - #### <ul>[Deep Learning and Digital Signal Processing for Environmental Sound Classification (supervised)](https://github.com/DrStef/Deep-Learning-and-Digital-Signal-Processing-for-Environmental-Sound-Classification/blob/main/README.md) </ul>
 <ul><ul>
 
