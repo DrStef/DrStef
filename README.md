@@ -83,6 +83,14 @@ Extension to **Continuous Wavelet Transform (CWT)** for improved handling of non
 **Objectives**  
 Develop efficient, reproducible denoising models suitable for real-world applications (communications in noisy environments, hearing assistance, industrial monitoring).
 
+<div align="center">
+
+|<p align="center"><img src="https://github.com/DrStef/stft-cwt-complex-mask-denoising/blob/main/results/Female_Helico_10s_SNR12dB_1s_STFT_analysis.png" align="center" width="700px"/></p> | 
+|:------:|
+| <p align="center"> <sub> <i> 1 second frame: magnitude of STFT - female voice + Helicopter SNR= 12 dB </i> </sub> </p>| 
+
+</div>
+
  </ul></ul>
  <br>
  
