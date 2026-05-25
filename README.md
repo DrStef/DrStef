@@ -100,6 +100,7 @@ While the current STFT-subband pipeline offers surgical precision for stationary
 * **Industrial Monitoring & Diagnostics:** Develop lightweight, deployment-ready denoising models suitable for real-world automated edge-monitoring and predictive maintenance.
 * **High-Fidelity Communications:** Optimize phase-intelligent pipelines for crystal-clear voice communications in extreme environments and advanced hearing assistance hardware.
 * **Open Science & Auditing:** Provide fully interactive Jupyter Notebooks allowing users to generate custom mixtures, inspect native log-linear magnitude error maps, and directly audit performance via localized audio demos.
+<br>
 
 <div align="center">
 
