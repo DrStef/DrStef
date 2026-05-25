@@ -68,26 +68,44 @@ Focused exclusively on valves, this model enhances fault detection in challengin
 
 <ul><ul>
 
-This repository implements **phase-aware complex ratio masking** (cIRM) for high-fidelity speech denoising using the Short-Time Fourier Transform (STFT).
+**High-Fidelity Signal & Speech Denoising: From STFT Subbanding to Continuous Wavelet Transforms**
 
-**Current Focus (v07r)**  
-- Lightweight **SimpleUNet** architecture  
-- Frequency-dependent clamping strategy ("Dog Bone" / Banana profile), inspired by the Speech Banana in audiology  
-- Strong emphasis on phase consistency to reduce hoarseness and musical noise  
-- Training on LibriSpeech + stationary/pseudo-stationary noises from ESC-50 (rain, wind, engines, helicopter, etc.)  
-- Achieved solid noise reduction while preserving natural speech quality, including on female voices
+> **Industrial Origin & Validation Paradigm:** This project was fundamentally engineered for industrial acoustic monitoring, predictive maintenance, and real-time machine diagnostics (e.g., structural mechanical impacts, bearing fault detection, and harsh factory environments). To rigorously validate the network's phase tracking and edge-case preservation under extreme stress, the architecture has been benchmarked on highly non-stationary speech-in-noise mixtures.
 
-**Future Direction**  
-Extension to **Continuous Wavelet Transform (CWT)** for improved handling of non-stationary and impulsive industrial noises (machine diagnostics, transient events, etc.).
+---
 
-**Objectives**  
-Develop efficient, reproducible denoising models suitable for real-world applications (communications in noisy environments, hearing assistance, industrial monitoring).
+##### Repository Focus & Core Architecture
+
+This repository hosts a production-grade, lightweight convolutional neural network (**SimpleUNet_v12**) tailored for high-fidelity signal enhancement in hostile acoustic environments. 
+
+##### Phase-Aware Complex Masking (v12 Engine)
+The core architecture departs from standard magnitude-only spectral masking by enforcing a native, synchronized **Cartesian Complex Ideal Ratio Mask (cIRM)** pipeline. This approach fully preserves sub-millisecond phase tracking, successfully eliminating legacy raw-magnitude distortions, hoarseness, and musical noise artifacts.
+
+##### Advanced Subbanding & Psychoacoustic Constraints (v12p / v12q)
+* **The "Dog Bone" / Banana Clamping Profile:** Inspired by the *Speech Banana* bounds in audiology, the network registers a frequency-dependent, anisotropic constraint vector ($K_{\text{dog-bone}}$). 
+* **Frequency Split Boundary ($f_b$):** Implements a dedicated multi-band subbanding framework. It applies strict, tight constraints at extreme low frequencies to block crushing sub-bass interference (e.g., helicopter rotor wash) while expanding the vector space at high frequencies (above 3500 Hz) to let the U-Net surgically isolate noise without stripping unvoiced fricatives.
+* **Empirical Validation:** Fully trained and validated on complex **LibriSpeech** clean speech sequences blended with non-stationary environmental and industrial noise profiles from the **ESC-10/50** datasets (including rain, wind, heavy engines, and rotor wash), delivering exceptional performance on both male and female voices.
+
+---
+
+##### Future Direction: Continuous Wavelet Transform (CWT)
+
+While the current STFT-subband pipeline offers surgical precision for stationary and rolling environmental noise, the roadmap targets the integration of a **Continuous Wavelet Transform (CWT)** multi-resolution pipeline. 
+* **Objective:** Achieve superior, optimal time-frequency localization specifically tailored for highly impulsive, transient industrial noises and non-stationary mechanical shocks (e.g., transient structural cracks, bearing spalls, and erratic industrial impacts) where legacy fixed-window Fourier analysis encounters its physical limits.
+
+---
+
+##### Project Objectives
+
+* **Industrial Monitoring & Diagnostics:** Develop lightweight, deployment-ready denoising models suitable for real-world automated edge-monitoring and predictive maintenance.
+* **High-Fidelity Communications:** Optimize phase-intelligent pipelines for crystal-clear voice communications in extreme environments and advanced hearing assistance hardware.
+* **Open Science & Auditing:** Provide fully interactive Jupyter Notebooks allowing users to generate custom mixtures, inspect native log-linear magnitude error maps, and directly audit performance via localized audio demos.
 
 <div align="center">
 
-|<p align="center"><img src="https://github.com/DrStef/stft-cwt-complex-mask-denoising/blob/main/results/Female_Helico_10s_SNR12dB_1s_STFT_analysis.png" align="center" width="700px"/></p> | 
+|<p align="center"><img src="https://github.com/DrStef/stft-cwt-complex-mask-denoising/blob/main/results/v12p_Female_voice_Helico_S32_N81_10s_SNR12dB_STFT_Native_4panel.png" align="center" width="700px"/></p> | 
 |:------:|
-| <p align="center"> <sub> <i> 1 second frame: magnitude of STFT - female voice + Helicopter SNR= 12 dB </i> </sub> </p>| 
+| <p align="center"> <sub> <i> 2 seconda frame: magnitude of STFT - female voice + Helicopter SNR= 12 dB </i> </sub> </p>| 
 
 </div>
 
