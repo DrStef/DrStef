@@ -103,7 +103,7 @@ While the current STFT-subband pipeline offers surgical precision for stationary
 
 <div align="center">
 
-|<p align="center"><img src="https://github.com/DrStef/stft-cwt-complex-mask-denoising/blob/main/results/v12p_Female_voice_Helico_S32_N81_10s_SNR12dB_STFT_Native_4panel.png" align="center" width="700px"/></p> | 
+|<p align="center"><img src="https://github.com/DrStef/stft-cwt-complex-mask-denoising/blob/main/results/v12p_Female_voice_Helico_S32_N81_10s_SNR12dB_STFT_Native_4panel.png" align="center" width="800px"/></p> | 
 |:------:|
 | <p align="center"> <sub> <i> 2 seconda frame: magnitude of STFT - female voice + Helicopter SNR= 12 dB </i> </sub> </p>| 
 
