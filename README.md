@@ -152,6 +152,31 @@ The alignment-free DNA sequence classification approach: <i>ML-DSP</i>, proposed
  </ul></ul>
  <br>
 
+ - #### <ul>[KEMAR + VR Headset — Acoustic Beamforming with Mesh2HRTF](https://github.com/DrStef/Acoustic_Beamforming_with_mesh2HRTF/blob/main/README.md)</ul>
+<ul><ul>
+An open-source numerical workflow for acoustic array design and spatial filtering on complex wearable geometries, combining boundary element methods (**Mesh2HRTF / NumCalc**) with a 4-microphone Minimum Variance Distortionless Response (**MVDR**) beamformer.
+
+##### What we actually achieve
+
+* **Open BEM Validation:** Rigorous benchmarking of Burton–Miller collocation BEM against analytical plane-wave solutions (Morse & Ingard) on a $0.1\,\mathrm{m}$ rigid sphere, mapping discretization tolerances, quadrature errors ($\sim 0.3\,\mathrm{dB}$ low-frequency tilt), and optimal point-source standoffs ($2\,\mathrm{mm}$).
+* **Wearable Array Simulation:** Integration of a KEMAR-style dummy with a generic VR headset to evaluate a 4-microphone end-fire array ($2.5\,\mathrm{cm}$ spacing) in the critical $100\,\mathrm{Hz}$–$8\,\mathrm{kHz}$ AR/VR audio band.
+* **Robust Spatial Filtering:** Custom MVDR weights with adaptive white-noise gain (WNG) flooring ($-25\,\mathrm{dB}$ below $500\,\mathrm{Hz}$, ramping to $-30\,\mathrm{dB}$ above $1\,\mathrm{kHz}$) to suppress solver noise and stabilize directivity index (DI) performance.
+
+##### Repository Structure
+
+* **Part I – BEM Solver Validation:** Sphere mesh analysis (5120 elements, Ico-5), ML-FMM cluster sizing, and point-source vs. piston trade-offs.
+* **Part II – KEMAR + VR Headset Beamforming:** Far-field transfer functions ($\mathbf{r}_{\mathrm{look}} = (1,0,0)\,\mathrm{m}$), 3D directivity balloons, and planar spatial aliasing analysis ($f_c \approx 6.86\,\mathrm{kHz}$ governed by $\lambda/2$ criteria).
+
+*Note: The optimizer implementation is proprietary and omitted; meshes, computed TFs, and example evaluation patterns are fully open-source and reproducible.*
+
+##### Applications
+
+* **AR / VR Audio:** Spatial audio capture, voice pick-up, and adaptive noise cancellation on head-mounted displays.
+* **Smart Hearables & Headsets:** Multi-microphone array design, diffraction and scattering compensation around human anatomy.
+* **Acoustic Sensor Arrays:** Superdirective beamforming, sound-source localization (SSL), and binaural processing pipelines.
+ </ul></ul>
+ <br>
+
  - #### <ul>[DeltaNotes: A Curated Collection of Advanced Reasoning Challenges for Testing LLMs Math Reasoning](https://github.com/DrStef/DeltaNotes)</ul>
 <ul><ul>
 This repository is a handpicked anthology of intricate mathematical and logical problems designed to probe the limits of AI reasoning capabilities. From differential equations and series convergence to probabilistic asymptotics and spectral inversions, each challenge demands multi-step deduction, symbolic manipulation, and creative insight—perfect for benchmarking LLMs like Grok or GPT. <br>
@@ -159,6 +184,7 @@ Whether you're an AI researcher honing models or a math enthusiast seeking tough
 Explore, test, and contribute: Turn theory into AI stress-tests! 
  </ul></ul>
  <br>
+ 
  
 - #### <ul>Deep Learning and Digital Signal Processing: Voice Activity Detection (VAD)</ul>
 
