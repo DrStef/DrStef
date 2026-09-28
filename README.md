@@ -178,9 +178,9 @@ An open-source numerical workflow for acoustic array design and spatial filterin
 <br>
 <div align="center">
 
-|<p align="center"><img src="https://github.com/DrStef/Acoustic_Beamforming_with_mesh2HRTF/blob/main/pictures/array51_kemar_VR_headset_pboundary_mics4.png" align="right" width="220px"/></p> |<p align="center"><img src="https://github.com/DrStef/Acoustic_Beamforming_with_mesh2HRTF/blob/main/pictures/array51_kemar_VR_headset_Beam3D_1kHz.png" align="right"  width="220px"/></p> |<p align="center"><img src="https://github.com/DrStef/Acoustic_Beamforming_with_mesh2HRTF/blob/main/pictures/array51_kemar_VR_headset_PlanarDirectivity.png"  align="right"  width="220px"/></p>|
+|<p align="center"><img src="https://github.com/DrStef/Acoustic_Beamforming_with_mesh2HRTF/blob/main/pictures/array51_kemar_VR_headset_pboundary_mics4.png" align="right" width="250px"/></p> |<p align="center"><img src="https://github.com/DrStef/Acoustic_Beamforming_with_mesh2HRTF/blob/main/pictures/array51_kemar_VR_headset_Beam3D_1kHz.png" align="right"  width="250px"/></p> |<p align="center"><img src="https://github.com/DrStef/Acoustic_Beamforming_with_mesh2HRTF/blob/main/pictures/array51_kemar_VR_headset_PlanarDirectivity.png"  align="right"  width="220px"/></p>|
 |:------:|:------:|:------:|
-|<p align="center"> <sub> <i> Boundary pressure - 4 kHz </i> </sub> </p>| <p align="center"> <sub> <i> MVDR Beamforming  <br> 3D Beampattern - 1 kHz </i> </sub> </p>|<p align="center"> <sub> <i> Directivity v. Frequency <br> Horizontal Plane z=0  </i> </sub> </p>|
+|<p align="center"> <sub> <i> Boundary pressure (reciprocity) <br> Microphone 4 at 4 kHz </i> </sub> </p>| <p align="center"> <sub> <i> MVDR Beamforming  <br> 3D Beampattern - 1 kHz </i> </sub> </p>|<p align="center"> <sub> <i> Directivity v. Frequency <br> Horizontal Plane z=0  </i> </sub> </p>|
 
 </ul></ul>
 
