@@ -174,6 +174,18 @@ An open-source numerical workflow for acoustic array design and spatial filterin
 * **AR / VR Audio:** Spatial audio capture, voice pick-up, and adaptive noise cancellation on head-mounted displays.
 * **Smart Hearables & Headsets:** Multi-microphone array design, diffraction and scattering compensation around human anatomy.
 * **Acoustic Sensor Arrays:** Superdirective beamforming, sound-source localization (SSL), and binaural processing pipelines.
+
+<br>
+|<p align="center"><img src="https://github.com/DrStef/Acoustic_Beamforming_with_mesh2HRTF/blob/main/pictures/array51_kemar_VR_headset_pboundary_mics4.png" align="right" width="200px"/></p> | <p align="center"><img src="https://github.com/DrStef/Acoustic_Beamforming_with_mesh2HRTF/blob/main/pictures/array51_kemar_VR_headset_Beam3D_1kHz.png"   align="right"  width="200px"/></p> | <p align="center"><img src="https://github.com/DrStef/Acoustic_Beamforming_with_mesh2HRTF/blob/main/pictures/array51_kemar_VR_headset_PlanarDirectivity.png"  align="right"  width="300px"/></p> |
+|:------:|:------:|:------:|
+| <p align="center"> <sub> <i> aT-CWT transform: "seawave" </i> </sub> </p>|  <p align="center"> <sub> <i> aT-CWT transform: "rain" </i> </sub> </p>| <p align="center"> <sub> <i> Confusion Matrix with aT-CWT </i> </sub> </p>|
+
+</ul></ul>
+
+
+
+
+
  </ul></ul>
  <br>
 
